@@ -1,0 +1,7 @@
+Manufacturer,Permit Number,DATE,VIN NUMBER,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)","DISENGAGEMENT INITIATED BY
+(AV System, Test Driver, Remote Operator, or Passenger)","DISENGAGEMENT
+LOCATION
+(Interstate, Freeway, Highway, Rural Road, Street, or Parking Facility)",DESCRIPTION OF FACTS CAUSING DISENGAGEMENT
+"PONY.AI, INC.",AVDT008,2021-10-28,KM8K23AG3MU127173,Yes,Yes,AV System,Street,Planning; A diagnostic check failure caused the system to enter fail-safe mode.
