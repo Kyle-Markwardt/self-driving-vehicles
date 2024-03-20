@@ -1,0 +1,12 @@
+Disengagment reports and mileage:
+https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/disengagement-reports/
+
+Collisions:
+https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/
+
+Tabula (PDF to tables):
+https://tabula.technology/
+
+NHTSA API:
+https://github.com/ssanjose/nhtsa-api
+
