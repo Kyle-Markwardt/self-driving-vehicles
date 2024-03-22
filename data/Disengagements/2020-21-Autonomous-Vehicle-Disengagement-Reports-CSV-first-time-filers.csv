@@ -1,0 +1,37 @@
+Manufacturer,Permit Number,DATE,VIN NUMBER,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)","DISENGAGEMENT INITIATED BY
+(AV System, Test Driver, Remote Operator, or Passenger)","DISENGAGEMENT
+LOCATION
+(Interstate, Freeway, Highway, Rural Road, Street, or Parking Facility)",DESCRIPTION OF FACTS CAUSING DISENGAGEMENT
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-10,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Planning Discrepancy: Failure to yield to other actors
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Planning Module Failure due to software issue
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Planning Module Failure due to software issue
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Planning Discrepancy: Failure to yield to other actors
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Perception Discrepancy: Incorrect assessment of actor size
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
+"UATC, LLC",AVT026,2020-03-11,YV4BR0PU1J1211322,No,Yes,Test Driver,Street,Software Module fault due to system latency
