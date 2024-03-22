@@ -1,0 +1,210 @@
+Manufacturer,Permit Number,DATE,VIN NUMBER,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)","DISENGAGEMENT INITIATED BY
+(AV System, Test Driver, Remote Operator, or Passenger)","DISENGAGEMENT
+LOCATION
+(Interstate, Freeway, Highway, Rural Road, Street, or Parking Facility)",DESCRIPTION OF FACTS CAUSING DISENGAGEMENT
+BOSCH,AVT006,11/30/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Driver error; Accidental disengagement.
+BOSCH,AVT006,11/30/2021,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Failure to yield during right turn at 2-way stop.
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Insufficient braking for stopped traffic ahead.
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,AV System,Street,The system disengaged because of an error with the fusion component. The system asked the operator to take control of the vehicle.
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Emergency takeover for vehicle turning left into our lane during right turn.
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during right turn.
+BOSCH,AVT006,12/9/2021,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Failure to stop for leading vehicle.
+BOSCH,AVT006,1/14/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Failure to yield during unprotected left turn.
+BOSCH,AVT006,1/14/2022,WDD2221591A470147,No,Yes,AV System,Street,Planning Behavior Timeout; 
+BOSCH,AVT006,1/14/2022,WDD2221591A470147,No,Yes,AV System,Street,Pedestrian detection MRCRL1 state timeout; Pedestrian detection MRCRL2 state timeout; 
+BOSCH,AVT006,1/14/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver error; Driver did not override planned stop at right-on-red scenario.
+BOSCH,AVT006,1/14/2022,WDD2221591A470147,No,Yes,AV System,Street,Planning Behavior Timeout; 
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; False positive yielding to pedestrian near crosswalk during left turn causing braking.
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover in response to vehicle cutting into our lane.
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover for pedestrian in roadway.
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Distronic lever pushed; Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during left turn with vehicle following behind.
+BOSCH,AVT006,1/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Failure to yield during unprotected left turn.
+BOSCH,AVT006,1/20/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during left turn.
+BOSCH,AVT006,1/20/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Driver error; Engaged autonomous driving mode while above target speed.
+BOSCH,AVT006,1/20/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,1/20/2022,WDD2221591A470147,No,Yes,AV System,Street,Pedestrian detection MRCFR2 state timeout; 
+BOSCH,AVT006,1/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,1/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,1/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; False positive yielding to pedestrian near crosswalk during left turn causing braking.
+BOSCH,AVT006,1/24/2022,WDD2221591A470147,No,Yes,AV System,Street,Fusion Dynamic World state timeout; 
+BOSCH,AVT006,2/4/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,2/4/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,2/10/2022,WDD2221591A470147,No,Yes,AV System,Street,Fusion Dynamic World state timeout; 
+BOSCH,AVT006,2/10/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during right turn.
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Failure to yield to pedestrian at crosswalk.
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Driver takeover for perceived wide lane change close to sidewalk curb.
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Driver takeover for slow takeoff at green light.
+BOSCH,AVT006,3/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Distronic lever pushed; Accelerator pedal pressed; Emergency takeover for other vehicle encroaching in our lane.
+BOSCH,AVT006,3/24/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,3/24/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; False positive yielding to pedestrian near crosswalk causing braking.
+BOSCH,AVT006,3/25/2022,WDD2221591A470147,No,Yes,AV System,Street,Fusion Dynamic World state timeout; 
+BOSCH,AVT006,3/29/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,3/29/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,4/5/2022,WDD2221591A470147,No,Yes,AV System,Street,Planning Behavior Timeout; 
+BOSCH,AVT006,4/5/2022,WDD2221591A470147,No,Yes,AV System,Street,Error in trajectory check; 
+BOSCH,AVT006,4/5/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,5/6/2022,WDD2221591A470147,No,Yes,AV System,Street,Fusion Traffic Regulation state timeout; 
+BOSCH,AVT006,5/6/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/6/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/10/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/10/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,5/10/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Inappropriate creeping towards stopped leading vehicle.
+BOSCH,AVT006,5/10/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; Localization incident detected; 
+BOSCH,AVT006,5/16/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/16/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment fixed vector size exceeded; 
+BOSCH,AVT006,5/16/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment fixed vector size exceeded; 
+BOSCH,AVT006,5/16/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unecessary yielding to crossing pedestrian who is beyond the SDC path.
+BOSCH,AVT006,5/16/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Emergency takeover in response to vehicle cutting into our lane.
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Emergency takeover for other vehicle encroaching in our lane; Braking in intersection during left turn.
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Failure to yield during right turn at 2-way stop.
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Emergency takeover for pedestrian in roadway.
+BOSCH,AVT006,5/19/2022,WDD2221591A470147,No,Yes,AV System,Street,Vehicle state error; Odometry state error 
+BOSCH,AVT006,5/20/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/20/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/20/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error;
+BOSCH,AVT006,5/20/2022,WDD2221591A470147,No,Yes,AV System,Street,Fusion Traffic Regulation state timeout; 
+BOSCH,AVT006,5/20/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/24/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; Localization incident detected; 
+BOSCH,AVT006,5/24/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/24/2022,WDD2221591A470147,No,Yes,AV System,Street,COM state error; 
+BOSCH,AVT006,5/26/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/26/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; 
+BOSCH,AVT006,5/26/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Driver error; Improperly timed use of traffic light override feature.
+BOSCH,AVT006,5/26/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Failure to yield during unprotected left turn.
+BOSCH,AVT006,5/26/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,6/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during right turn.
+BOSCH,AVT006,6/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,6/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,6/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,6/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during right turn.
+BOSCH,AVT006,6/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Driver takeover for slow takeoff at green light.
+BOSCH,AVT006,6/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,6/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,6/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover for pedestrian in roadway.
+BOSCH,AVT006,6/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Distronic lever pushed; Accelerator pedal pressed; Failure to yield during lane merge.
+BOSCH,AVT006,6/30/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Driver takeover in response to unexpected steering movement.
+BOSCH,AVT006,6/30/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Driver error; Accidental engagement of traffic light override feature.
+BOSCH,AVT006,7/8/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,7/13/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,7/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Insufficient braking for stopped traffic ahead.
+BOSCH,AVT006,7/19/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,7/19/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; Localization incident detected; 
+BOSCH,AVT006,8/4/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,8/4/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,8/4/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Insufficient braking for stopped traffic ahead.
+BOSCH,AVT006,8/12/2022,WDD2221591A470147,No,Yes,AV System,Street,Localization state error; Localization incident detected; 
+BOSCH,AVT006,9/1/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for incorrect traffic light state detection.
+BOSCH,AVT006,9/8/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,9/8/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,9/15/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover in response to vehicle cutting into our lane.
+BOSCH,AVT006,9/15/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/23/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,9/23/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/23/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Emergency takeover for other vehicle encroaching in our lane.
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Emergency takeover for tailgating vehicle behind SDC.
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for slow takeoff at green light.
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,9/29/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/30/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,9/30/2022,WDD2221591A470147,No,Yes,AV System,Street,Environment model error; 
+BOSCH,AVT006,9/30/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; False positive yielding to pedestrian near crosswalk causing braking.
+BOSCH,AVT006,10/6/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Distronic lever pushed; Accelerator pedal pressed; Driver takeover for slow takeoff at green light.
+BOSCH,AVT006,10/6/2022,WDD2221591A470147,No,Yes,AV System,Street,Unknown/Unclassified system error disengagement.
+BOSCH,AVT006,10/7/2022,WDD2221591A470147,No,Yes,AV System,Street,Unknown/Unclassified system error disengagement.
+BOSCH,AVT006,10/11/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover for object hazards in roadway.
+BOSCH,AVT006,10/14/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Inappropriate creeping towards stopped leading vehicle.
+BOSCH,AVT006,10/18/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,10/18/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Driver takeover for SDC veering into adjacent lane.
+BOSCH,AVT006,10/20/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+BOSCH,AVT006,10/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Brake pedal pressed; Emergency takeover in response to vehicle cutting into our lane.
+BOSCH,AVT006,10/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking due to unnecessary yielding to car with no right of way.
+BOSCH,AVT006,10/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during left turn.
+BOSCH,AVT006,10/21/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during left turn.
+BOSCH,AVT006,10/21/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,10/26/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Brake pedal pressed; Driver takeover, SDC not slowing for yellow light."
+BOSCH,AVT006,10/31/2022,WDD2221591A470147,No,Yes,AV System,Street,Planning Behavior Provider Timeout; 
+BOSCH,AVT006,11/3/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/3/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during right turn.
+BOSCH,AVT006,11/10/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; Unexpected braking during left turn.
+BOSCH,AVT006,11/10/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Steering takeover; Unexpected braking and steering behavior during turning lane split.
+BOSCH,AVT006,11/10/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/15/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/15/2022,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed; False positive yielding to pedestrian near crosswalk causing braking.
+BOSCH,AVT006,11/15/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/17/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Brake pedal pressed; Driver takeover, SDC not slowing for yellow light."
+BOSCH,AVT006,11/22/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/22/2022,WDD2221591A470147,No,Yes,AV System,Street,Motion Control error - timeout; 
+BOSCH,AVT006,11/22/2022,WDD2221591A470147,No,Yes,Test Driver,Street,"Accelerator pedal pressed; Unexpected braking event, in-lane driving."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2021-12-07 14:22:11,2C4RC1N73LR135204,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2021-12-07 14:22:11,2C4RC1N72LR135159,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2021-12-08 12:37:53,2C4RC1N70LR135158,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-05-06 21:17:17,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-05-12 17:12:22,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-05-13 21:07:17,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-05-26 18:08:26,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-05-26 22:48:32,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-01 22:31:39,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-13 22:17:56,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-14 20:47:29,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-15 17:54:37,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-16 16:49:55,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-16 21:14:16,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-16 22:39:58,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-17 17:46:04,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-27 17:42:15,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-29 21:05:25,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-29 21:06:53,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-29 21:22:51,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-06-30 16:10:39,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-01 17:37:03,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-06 15:16:01,2C4RC1N75LR135205,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-13 16:42:25,JTHCYLFF9J5001363,No,Yes,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking proposal, caused by perception issue."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-14 20:58:26,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-14 22:42:51,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-14 22:46:45,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-20 11:04:34,2C4RC1N76LR138968,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-20 21:06:22,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-22 11:05:21,2C4RC1N72LR135159,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-22 16:18:51,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-25 20:49:47,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-25 21:10:24,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-25 21:28:04,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-25 22:02:02,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-07-28 21:52:25,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-01 21:44:50,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-05 18:07:28,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cyclist in crosswalk while test vehicle had green light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-08 17:17:11,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-16 17:07:30,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-22 16:16:32,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-22 21:50:35,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-08-26 21:11:18,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-09-07 12:30:52,2C4RC1N76LR138968,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-09-22 20:51:43,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-09-26 16:27:01,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-09-26 16:37:21,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-06 20:52:36,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-10 21:10:21,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-14 17:16:47,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-20 17:13:07,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-20 17:45:28,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-24 21:21:51,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking proposal, caused by perception issue."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-25 17:31:32,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking proposal, caused by perception issue."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-26 16:46:36,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-10-26 18:11:09,JTHCYLFF9J5001363,No,Yes,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking proposal, caused by perception issue."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-02 16:45:33,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-09 21:45:23,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-21 21:42:00,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-22 21:59:19,JTHCYLFF9J5001363,No,Yes,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking proposal, caused by perception issue."
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-29 18:33:47,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-29 23:03:29,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+"WOVEN PLANET NORTH AMERICA, INC.",AVT077,2022-11-30 00:06:27,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
