@@ -1,0 +1,34 @@
+Operator,Business,Date_of_Accident,Time_of_accident,address,city,county,state,zip
+Apollo Autonomous Driving USA LLC,Apollo Autonomous Driving USA LLC,2023-10-16,12:02 PM,1901 46th Avenue,San Francisco,San Francisco,CA,94116
+Apple Inc.,Apple Inc.,2024-02-15,12:03 PM,US 101N at Ellis St Exit,Sunnyvale,Santa Clara,CA,94089
+Apple Inc.,Apple Inc.,2023-10-13,1:52 PM,I-880N near Brokaw Rd Exit,San Jose,Santa Clara,CA,95131
+Apple Inc.,Apple Inc.,2023-10-23,05:06 PM,Lawrence Expressway and Kifer Road,Santa Clara,Santa Clara,CA,95051
+Apple Inc.,Apple Inc.,2024-01-26,11:06 AM,I-580E and I-238 Junction,Castro Valley,Alameda,CA,94546
+Cruise LLC,Cruise,,nan AM,,,,,
+Cruise LLC,Cruise,,nan AM,,,,,
+Ghost Autonomy Inc.,Ghost Autonomy Inc.,2024-01-11,4:48 PM,HWY 17 Northbound near Hamman Park,San Jose,Santa Clara,CA,95128
+"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-11-29,5:00 PM,"405S, BELLFLOWER EXIT",LONG BEACH,LOS ANGELES,CA,90810
+Nuro Inc,Nuro Inc,2024-01-12,2:30 PM,Cross street: Terra Bella and Shoreline,Mountain View,Santa Clara,CA,94043
+Nuro Inc,Nuro Inc,2024-03-12,8:20 PM,Intersection of Thompson Ave. and Alvin Street,Mountain View,Santa Clara,CA,94043
+Nuro Inc,Nuro Inc,2023-11-27,6:00 AM,1228 S Myrtle Ave,Inglewood,,CA,90301
+Nuro Inc,Nuro Inc,2024-01-31,4:20 PM,Intersection of Boyce Ave and Fife Ave,Palo Alto,Santa Clara,CA,94301
+Waymo LLC,Waymo LLC,2024-01-08,12:05 PM,Manhattan Place at West Adams Boulevard,Los Angeles,Los Angeles,CA,90018
+Waymo LLC,Waymo LLC,2024-02-05,10:01 PM,Watt Way and West Exposition Boulevard,Los Angeles,Los Angeles,CA,90089
+Waymo LLC,Waymo LLC,2024-02-18,1:03 AM,The Embarcadero at Washington Street,San Francisco,San Francisco,CA,94111
+Waymo LLC,Waymo LLC,2024-03-02,8:15 AM,Odd Fellows Way and 7th Street,San Francisco,San Francisco,CA,94103
+Waymo LLC,Waymo LLC,2024-03-08,12:06 PM,S Figueroa Street at Venice Boulevard,Los Angeles,Los Angeles,CA,90015
+Waymo LLC,Waymo LLC,2024-03-14,2:42 PM,S Figueroa Street at 7th Street,Los Angeles,Los Angeles,CA,90017
+Waymo LLC,Waymo LLC,2023-10-17,9:24 AM,Market Street at Gough Street,San Francisco,San Francisco,CA,94103
+Waymo LLC,Waymo LLC,2023-10-26,7:48 AM,13th Street near Bernice Street,San Francisco,San Francisco,CA,94103
+Waymo LLC,Waymo LLC,2023-11-03,3:44 PM,3rd Street at Stevenson Street,San Francisco,San Francisco,CA,94103
+Waymo LLC,Waymo LLC,2023-11-22,7:59 PM,West 7th Street at South Park View Street,Los Angeles,Los Angeles,CA,90057
+Waymo LLC,Waymo LLC,2024-01-31,5:15  PM,Potrero Avenue near 22nd Street,San Francisco,San Francisco,CA,94110
+WERIDE CORP,WERIDE,2024-01-17,12:56 PM,On 2nd St Left turn to  E San Fernando St,San Jose,Santa Clara,CA,95134
+,,,nan,,,,,
+,,,nan,,,,,
+"Zoox, Inc.",Zoox,2024-01-11,2:30 PM,On Florida St near the intersection with Division St,San Francisco,San Francisco,CA,94103
+"Zoox, Inc.",Zoox,2024-01-11,4:56 PM,On Bryant St at the intersection with 6th St,San Francisco,San Francisco,CA,94103
+"Zoox, Inc.",Zoox,2024-01-15,2:12 PM,On Stockton St near Union St,San Francisco,San Francisco,CA,94133
+"Zoox, Inc.",Zoox,,nan,,,,,
+"Zoox, Inc.",Zoox,,nan,,,,,
+"Zoox, Inc. dba Zoox Labs Inc. ",Zoox,2023-10-12,8:12 PM,Jackson St. between Montgomery/Sansome Sts.,San Francisco,San Francisco,CA,94133
