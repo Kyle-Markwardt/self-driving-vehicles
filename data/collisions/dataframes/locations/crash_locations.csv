@@ -1,568 +1,307 @@
 Operator,Business,Date_of_Accident,location,city,county,state,zip,Time_of_accident_24hr
-"Aimotive, Inc","Aimotive, Inc.",2019-09-16,"SB, 101 US Freeway, Old Middlefield Rd x Shorline",Mountain View,Santa Clara,CA,94043,10:00
-Apollo Autonomous Driving USA LLC,Apollo Autonomous Driving USA LLC,2023-06-29,Moraga St near 34th Ave,San Francisco,San Francisco,CA,94122,15:39
-Apollo Autonomous Driving USA LLC,Apollo Autonomous Driving USA LLC,2023-09-06,2037 Rivera Street,San Francisco,San Francisco,CA,94116,12:25
-Apollo Autonomous Driving USA LLC,Apollo Autonomous Driving USA LLC,2023-10-16,1901 46th Avenue,San Francisco,San Francisco,CA,94116,12:02
-Apple Inc.,Apple Inc.,2024-01-26,I-580E and I-238 Junction,Castro Valley,Alameda,CA,94546,11:06
-Apple Inc.,Apple Inc.,2023-02-21,Homestead Rd & Kennewick Dr,Sunnyvale,Santa Clara,CA,94087,10:15
-Apple Inc.,Apple Inc.,2021-08-19,690 University Ave.,San Diego,San Diego,CA,92103,09:30
-Apple Inc.,Apple Inc.,2021-08-23,Main Street Cupertino Parking Roadway Intersectio,Cupertino,Santa Clara,CA,95014,20:21
-Apple Inc.,Apple Inc.,2019-09-19,Sunnyvale Community Center Park Entrance,Sunnyvale,Santa Clara,CA,94087,07:58
-Apple Inc.,Apple Inc.,2022-10-10,Lawrence Expy and Sandia Ave,Sunnyvale,Santa Clara,CA,94089,09:56
-Apple Inc.,Apple Inc.,2021-12-06,El Camino Real & 604 El Camino Real Parking Exit,Sunnyvale,Santa Clara,CA,94087,17:53
-Apple Inc.,Apple Inc.,2022-12-20,US 101N near Marine Pkwy Exit,Belmont,San Mateo,CA,94002,12:46
-Apple Inc.,Apple Inc.,2022-06-14,Moorpark Way and E Evelyn Ave,Mountain View,Santa Clara,CA,94041,15:15
-Apple Inc.,Apple Inc.,2021-09-27,N Mathilda Ave and Del Rey Ave,Sunnyvale,Santa Clara,CA,94085,10:53
-Apple Inc.,Apple Inc.,2022-02-17,300 Charles Street,Sunnyvale,Santa Clara,CA,94086,08:25
-Apple Inc.,Apple Inc.,2022-02-22,EB E Evelyn Ave btw Mondrian and Bernardo,Mountain View,Santa Clara,CA,94041,13:32
-Apple Inc.,Apple Inc.,2022-03-15,SB Semiconductor Drive,Santa Clara,Santa Clara,CA,95051,18:59
-Apple Inc.,Apple Inc.,2022-10-20,US-101S Ramp & Lawrence Expressway,Sunnyvale,Santa Clara,CA,94085,11:19
-Apple Inc.,Apple Inc.,2021-11-11,North Fair Oaks Ave and Kifer Road,Sunnyvale,Santa Clara,CA,94086,17:01
-Apple Inc.,Apple Inc.,2024-02-15,US 101N at Ellis St Exit,Sunnyvale,Santa Clara,CA,94089,12:03
-Apple Inc.,Apple Inc.,2023-05-11,Our Lady's Way & Great America Pkwy,Santa Clara,Santa Clara,CA,95054,16:55
-Apple Inc.,Apple Inc.,2023-09-26,I-80 Westbound,Emeryville,Alameda,CA,94608,11:33
-Apple Inc.,Apple Inc.,2023-09-29,US 101S near Capitol Expressway,San Jose,Santa Clara,CA,95121,14:58
-Apple Inc.,Apple Inc.,2023-10-13,I-880N near Brokaw Rd Exit,San Jose,Santa Clara,CA,95131,13:52
-Apple Inc.,Apple Inc.,2023-10-23,Lawrence Expressway and Kifer Road,Santa Clara,Santa Clara,CA,95051,17:06
-Argo AI,Argo AI,2021-07-08,Stanford Ave/Bowdoin St,Palo Alto,Santa Clara,CA,94304,09:18
-Argo AI,Argo AI,2021-07-01,El Camino/Page Mill RD,Palo Alto,Santa Clara,CA,94304,15:19
-Argo AI,Argo AI,2022-09-22,SE Park Avenue,Palo Alto,Santa Clara,CA,94306,17:24
-Argo AI,Argo AI,2021-10-19,Grant Ave/El Camino Real,Palo Alto,Santa Clara,CA,94306,14:25
-"Aurora Innovation, Inc.",Aurora,2020-01-14,Lafayette St. and Benton St.,Santa Clara,Santa Clara,CA,95050,11:13
-Aurora Innovation Inc,Aurora Innovation Inc,2019-01-10,Townsend and 3rd,San Francisco,San Francisco,CA,94107,14:52
-"Beep, Inc.","Beep, Inc.",2023-08-23,"9th St at Seven Seas Ave, Treasure Island",San Francisco,San Francisco,CA,94130,17:54
-Cruise LLC,Cruise,2020-01-02,Clement St between 24th Ave and 25th Ave,San Francisco,San Francisco,CA,94121,08:24
-Cruise LLC,Cruise,2020-01-12,Clipper St. and Portola Dr.,San Francisco,San Francisco,CA,0,12:40
-Cruise LLC,Cruise,2021-01-13,201 Grant Av,San Francisco,San Francisco,CA,94108,17:32
-Cruise LLC,Cruise,2021-01-21,433 Minna St,San Francisco,San Francisco,CA,94103,14:38
-Cruise LLC,Cruise,2020-01-25,4307 24th St,San Francisco,San Francisco,CA,94114,08:10
-Cruise LLC,Cruise,2020-01-29,1170 Columbus Av,San Francisco,San Francisco,CA,94133,10:10
-Cruise LLC,Cruise,2020-01-31,22 Castro St,San Francisco,San Francisco,CA,94114,17:47
-Cruise LLC,Cruise,2020-02-05,901 Jones St,San Francisco,San Francisco,CA,94109,08:57
-Cruise LLC,Cruise,2020-02-09,Sickles Ave and Mission St,San Francisco,San Francisco,CA,94112,21:16
-Cruise LLC,Cruise,2021-02-09,1011 De Haro St,San Francisco,San Francisco,CA,94107,14:41
-Cruise LLC,Cruise,2021-02-25,700 Blk Baker St,San Francisco,San Francisco,CA,94115,19:10
-Cruise,Cruise,2023-03-03,1201 Bryant St,San Francisco,San Francisco,CA,94103,04:23
-Cruise LLC,Cruise,2021-03-09,274 Fremont St,San Francisco,San Francisco,CA,94105,20:20
-Cruise LLC,Cruise,2021-03-12,198 Duboce Av,San Francisco,San Francisco,CA,94103,16:37
-Cruise,Cruise,2023-03-21,1401 Clay Street,San Francisco,San Francisco,CA,94109,21:49
-Cruise,Cruise,2023-03-23,1452 Haight Street,San Francisco,San Francisco,CA,94117,14:46
-Cruise LLC,Cruise,2021-03-27,199 Parnassus St,San Francisco,San Francisco,CA,94117,16:27
-Cruise LLC,Cruise,2021-03-29,1890 Folsom St,San Francisco,San Francisco,CA,94103,16:58
-Cruise LLC,Cruise,2021-03-30,1855 Folsom Street,San Francisco,San Francisco,CA,94107,09:23
-Cruise,Cruise,2023-04-09,499 25th Avenue,San Francisco,San Francisco,CA,94121,04:45
-Cruise,Cruise,2023-04-12,1198 Turk Street,San Francisco,San Francisco,CA,94115,20:13
-Cruise,Cruise,2022-04-16,1460 Pine St,San Francisco,San Francisco,CA,94109,23:21
-Cruise,Cruise,2022-04-17,3289 Mission St,San Francisco,San Francisco,CA,94110,12:13
-Cruise LLC,Cruise,2021-04-21,1401 15th St,San Francisco,San Francisco,CA,94103,12:38
-Cruise,Cruise,2023-05-01,36th Ave and Lincoln Way,San Francisco,San Francisco,CA,94122,02:44
-Cruise,Cruise,2023-05-04,1798 Franklin St,San Francisco,San Francisco,CA,94109,09:32
-Cruise LLC,Cruise,2021-05-17,1201 Guerrero St,San Francisco,San Francisco,CA,94110,13:27
-Cruise LLC,Cruise,2021-05-31,1418 7th Av,San Francisco,San Francisco,CA,94112,09:37
-Cruise,Cruise,2022-06-29,835 Clement Street,San Francisco,San Francisco,CA,94118,10:49
-Cruise,Cruise,2021-07-10,2500 Clement St.,San Francisco,San Francisco,CA,94121,18:06
-Cruise,Cruise,2022-07-14,3597 Mission St,San Francisco,San Francisco,CA,94110,02:57
-Cruise,Cruise,2021-07-15,1500 McAllister St.,San Francisco,San Francisco,CA,94115,21:38
-Cruise,Cruise,2022-07-16,700 Parnassus Ave,San Francisco,San Francisco,CA,94122,22:46
-Cruise,Cruise,2022-07-18,1561 16th Ave,San Francisco,San Francisco,CA,94122,01:39
-Cruise,Cruise,2021-07-26,900 Blk Howard St,San Francisco,San Francisco,CA,94103,13:15
-Cruise,Cruise,2021-08-02,2200 Blk Balboa St,San Francisco,San Francisco,CA,94121,12:58
-Cruise,Cruise,2022-08-02,38 The Embarcadero S,San Francisco,San Francisco,CA,94105,07:04
-Cruise LLC,Cruise,2020-08-04,2700 San Jose Ave,San Francisco,San Francisco,CA,94112,15:53
-Cruise LLC,Cruise,2020-08-09,Potrero Ave. and 17th St.,San Francisco,San Francisco,CA,94110,15:48
-Cruise LLC,Cruise,2020-08-15,Turk St. and Steiner St.,San Francisco,San Francisco,CA,95115,22:19
-Cruise,Cruise,2021-08-28,900 Steiner St,San Francisco,San Francisco,CA,94117,21:05
-Cruise,Cruise,2021-08-30,1096 Fulton St,San Francisco,San Francisco,CA,94117,20:40
-Cruise LLC,Cruise,2020-09-16,9th St and Folsom St,San Francisco,San Francisco,CA,94103,09:09
-Cruise,Cruise,2021-10-02,700 Capp St,San Francisco,San Francisco,CA,94110,01:56
-Cruise LLC,Cruise,2020-10-09,4960 Mission St,San Francisco,San Francisco,CA,94112,13:08
-Cruise LLC,Cruise,2019-10-17,Hyde St. and Sutter St.,San Francisco,San Francisco,CA,94109,01:05
-Cruise LLC,Cruise,2020-10-24,2398 17 St,San Francisco,San Francisco,CA,94110,04:40
-Cruise LLC,Cruise,2020-10-25,1128 Balboa St,San Francisco,San Francisco,CA,94118,16:28
-Cruise LLC,Cruise,2019-10-26,The Embarcadero and Battery St.,San Francisco,San Francisco,CA,94111,11:05
-Cruise LLC,Cruise,2019-10-27,15 Marina Blvd,San Francisco,San Francisco,CA,94123,13:50
-Cruise LLC,Cruise,2019-10-28,Howard St. and 9th St.,San Francisco,San Francisco,CA,94103,14:42
-Cruise LLC,Cruise,2019-10-29,Beach St. and The Embarcadero,San Francisco,San Francisco,CA,0,19:52
-Cruise LLC,Cruise,2019-11-07,King St. between 2nd St. and 3rd St.,San Francisco,San Francisco,CA,0,20:35
-Cruise LLC,Cruise,2019-11-07,24th St. and Mission St.,San Francisco,San Francisco,CA,94110,21:10
-Cruise LLC,Cruise,2019-11-09,Howard St. and 11th St.,San Francisco,San Francisco,CA,94103,09:59
-Cruise LLC,Cruise,2019-11-10,1499 Vallejo St.,San Francisco,San Francisco,CA,94109,12:55
-Cruise,Cruise,2021-11-15,4485 17th St,San Francisco,San Francisco,CA,94114,08:44
-Cruise LLC,Cruise,2019-11-18,13th St. and Bryant St.,San Francisco,San Francisco,CA,94103,09:45
-Cruise LLC,Cruise,2019-11-25,California St. and Hyde St.,San Francisco,San Francisco,CA,94109,19:00
-Cruise LLC,Cruise,2019-11-29,Embarcadero St. and Washington St.,San Francisco,San Francisco,CA,94105,10:41
-Cruise LLC,Cruise,2019-12-08,30th Avenue and California Street,San Francisco,San Francisco,CA,94121,09:14
-Cruise LLC,Cruise,2019-12-13,Bryant St. and Delancey St.,San Francisco,San Francisco,CA,94107,07:55
-Cruise,Cruise,2022-12-14,1774 Sacramento St,San Francisco,San Francisco,CA,94109,23:51
-Cruise,Cruise,2022-12-18,847 Divisadero St,San Francisco,San Francisco,CA,94117,23:23
-Cruise LLC,Cruise,2019-12-19,Post St. and Leavenworth St.,San Francisco,San Francisco,CA,94109,10:27
-Cruise,Cruise,2022-12-21,410 Brannan St,San Francisco,San Francisco,CA,94107,08:50
-Cruise LLC,Cruise,2019-12-27,850 Stanyan St.,San Francisco,San Francisco,CA,94117,16:56
-Cruise,Cruise,2022-06-17,2502 Leavenworth Street,San Francisco,San Francisco,CA,94133,19:53
-Cruise,Cruise,2021-09-25,3100 3rd St,San Francisco,San Francisco,CA,94124,10:56
-Cruise,Cruise,2023-01-25,1699 13th St,San Francisco,San Francisco,CA,94103,18:24
-Cruise,Cruise,2022-01-26,198 10 St,San Francisco,San Francisco,CA,94103,03:56
-Cruise,Cruise,2022-01-29,280 Potrero AV,San Francisco,San Francisco,CA,94103,13:10
-Cruise,Cruise,2022-02-11,1002 Masonic Ave,San Francisco,San Francisco,CA,94117,12:42
-Cruise,Cruise,2022-02-19,890 Geary Blvd,San Francisco,San Francisco,CA,94109,08:36
-Cruise,Cruise,2023-03-06,1199 Polk St,San Francisco,San Francisco,CA,94109,01:06
-Cruise,Cruise,2022-03-15,3001 16th St,San Francisco,San Francisco,CA,94103,12:26
-Cruise,Cruise,2023-03-18,499 25th Avenue,San Francisco,San Francisco,CA,94121,03:26
-Cruise,Cruise,2023-03-21,1660 Sacramento Street,San Francisco,San Francisco,CA,94109,17:58
-Cruise,Cruise,2023-03-22,1695 Polk Street,San Francisco,San Francisco,CA,94109,04:29
-Cruise,Cruise,2023-03-22,1258 Shafter Avenue,San Francisco,San Francisco,CA,94124,03:20
-Cruise,Cruise,2023-03-22,2654 Turk Boulevard,San Francisco,San Francisco,CA,94118,23:30
-Cruise,Cruise,2022-03-24,1090 Point Lobos Avenue,San Francisco,San Francisco,CA,94121,13:24
-Cruise,Cruise,2022-03-26,2200 Greenwich St,San Francisco,San Francisco,CA,94123,02:07
-Cruise,Cruise,2022-03-29,1145 Hayes St,San Francisco,San Francisco,CA,94117,09:44
-Cruise,Cruise,2022-04-01,1333 Bush St,San Francisco,San Francisco,CA,94109,00:43
-Cruise,Cruise,2022-04-09,1798 Sacramento St,San Francisco,San Francisco,CA,94109,01:55
-Cruise,Cruise,2022-04-24,1225 Steiner,San Francisco,San Francisco,CA,94115,03:35
-Cruise,Cruise,2022-04-25,1798 Sacramento St,San Francisco,San Francisco,CA,94109,23:21
-Cruise LLC,Cruise,2021-05-11,901 Castro St,San Francisco,San Francisco,CA,94114,15:59
-Cruise,Cruise,2022-05-13,1699 Pine St,San Francisco,San Francisco,CA,94109,04:37
-Cruise,Cruise,2022-05-25,135 Drumm St,San Francisco,San Francisco,CA,94111,20:42
-Cruise,Cruise,2022-06-02,1534 Hayes St,San Francisco,San Francisco,CA,94117,01:54
-Cruise,Cruise,2022-06-03,698 Spruce Street,San Francisco,San Francisco,CA,94118,23:00
-Cruise,Cruise,2023-06-24,676 Tennessee St,San Francisco,San Francisco,CA,94107,23:08
-Cruise,Cruise,2021-07-01,400 Block of 6th St,San Francisco,San Francisco,CA,94103,08:21
-Cruise LLC,Cruise,2020-07-25,Taraval St. and 21st Ave.,San Francisco,San Francisco,CA,94116,16:53
-Cruise,Cruise,2022-08-16,Martin Luther King Jr. Drive and Crossover Drive,San Francisco,San Francisco,CA,94122,03:53
-Cruise,Cruise,2022-09-01,766 Pine St,San Francisco,San Francisco,CA,94108,18:46
-Cruise,Cruise,2022-09-04,1597 Howard St,San Francisco,San Francisco,CA,94103,05:37
-Cruise,Cruise,2022-09-05,1727 Sacramento Street,San Francisco,San Francisco,CA,94109,05:14
-Cruise,Cruise,2021-11-13,1100 Ocean Ave,San Francisco,San Francisco,CA,94112,16:49
-Cruise,Cruise,2021-11-14,385 4th Ave,San Francisco,San Francisco,CA,94118,20:38
-Cruise,Cruise,2022-11-16,850 Van Ness Avenue,San Francisco,San Francisco,CA,94109,14:59
-Cruise,Cruise,2021-11-21,1277 Cayuga St,San Francisco,San Francisco,CA,94112,14:05
-Cruise,Cruise,2021-12-01,1219 Hayes St,San Francisco,San Francisco,CA,94117,17:35
-Cruise,Cruise,2021-12-01,900 Laguna St,San Francisco,San Francisco,CA,94115,17:22
-Cruise,Cruise,2021-12-11,460 Larkin St,San Francisco,San Francisco,CA,94102,16:47
-Cruise,Cruise,2021-12-26,799 14th Ave,San Francisco,San Francisco,CA,94118,18:41
-Cruise,Cruise,2022-12-28,1398 Folsom St,San Francisco,San Francisco,CA,94103,23:59
-Cruise,Cruise,2023-04-21,887 Geary St,San Francisco,San Francisco,CA,94109,20:13
-Cruise,Cruise,2023-04-22,810 10th St,San Francisco,San Francisco,CA,94103,21:59
-Cruise,Cruise,2023-05-03,Three Embarcadero Center,San Francisco,San Francisco,CA,94111,04:38
-Cruise,Cruise,2023-05-07,1494 Polk St,San Francisco,San Francisco,CA,94109,17:03
-Cruise,Cruise,2023-05-18,450 10th St,San Francisco,San Francisco,CA,94103,04:00
-Cruise,Cruise,2023-05-21,1121 Folsom St,San Francisco,San Francisco,CA,94103,21:24
-Cruise,Cruise,2023-06-08,2275 Revere Ave,San Francisco,San Francisco,CA,94124,22:37
-Cruise,Cruise,2023-06-09,2181 Harrison St,San Francisco,San Francisco,CA,94110,22:22
-Cruise,Cruise,2023-06-15,3164 Sacramento St,San Francisco,San Francisco,CA,94115,09:36
-Cruise,Cruise,2023-06-17,3376 19th St,San Francisco,San Francisco,CA,94110,23:30
-Cruise,Cruise,2023-06-17,450 10th St,San Francisco,San Francisco,CA,94103,10:45
-Cruise,Cruise,2023-06-29,1207 Selby St,San Francisco,San Francisco,CA,94124,13:05
-Cruise,Cruise,2023-07-02,190 Franklin St,San Francisco,San Francisco,CA,94102,12:07
-Cruise,Cruise,2023-07-21,425 McAllister Street,San Francisco,San Francisco,CA,94102,01:56
-Cruise,Cruise,2023-07-21,425 McAllister Street,San Francisco,San Francisco,CA,94102,01:56
-Cruise,Cruise,2023-07-28,1698 Van Ness Ave,San Francisco,San Francisco,CA,94109,23:51
-Cruise,Cruise,2023-07-30,3309 Mission St,San Francisco,San Francisco,CA,94110,22:41
-Cruise,Cruise,2023-08-08,901 Pennsylvania Ave,San Francisco,San Francisco,CA,94107,10:37
-Cruise,Cruise,2023-08-14,131 Albion St,San Francisco,San Francisco,CA,94110,16:45
-Cruise,Cruise,2023-08-17,2100 17th St,San Francisco,San Francisco,CA,94103,12:12
-Cruise,Cruise,2023-08-18,3401 26th St,San Francisco,San Francisco,CA,94110,12:19
-Cruise,Cruise,2023-09-11,215 Bush St,San Francisco,San Francisco,CA,94104,17:32
-Cruise,Cruise,2023-09-25,382 25th Ave,San Francisco,San Francisco,CA,94121,09:37
-Cruise,Cruise,2023-09-27,453 2nd St,San Francisco,San Francisco,CA,94107,08:42
-Cruise,Cruise,2023-10-06,308 Scott St,San Francisco,San Francisco,CA,94117,11:37
-Cruise,Cruise,2023-10-27,1113 26th St,Santa Monica,Los Angeles,CA,90403,01:29
-Ghost Autonomy Inc.,Ghost Autonomy Inc.,2022-10-07,Main Street (East of Navy Way),Alameda,0,CA,94501,11:45
-same,same,2023-08-14,900 Villa St.,Mountain View,Santa Clara,CA,94041,14:20
-Ghost Autonomy Inc.,Ghost Autonomy Inc.,2024-01-11,HWY 17 Northbound near Hamman Park,San Jose,Santa Clara,CA,95128,16:48
-GM Cruise LLC,Cruise,2019-01-07,Folsom St. and 11th St.,San Francisco,San Francisco,CA,94103,18:54
-GM Cruise LLC,Cruise,2019-01-10,S. Van Ness Ave between 12th St. and 13th St.,San Francisco,San Francisco,CA,94103,11:29
-GM Cruise LLC,Cruise,2019-02-14,Gough St. and Fell St.,San Francisco,San Francisco,CA,94102,05:30
-GM Cruise LLC,Cruise,2019-02-27,Gough St. and Rose St.,San Francisco,San Francisco,CA,94102,06:04
-GM Cruise LLC,Cruise,2019-03-08,16th St. and Guerrero St.,San Francisco,San Francisco,CA,94103,01:29
-GM Cruise LLC,Cruise,2019-03-23,Eddy St. and Leavenworth St.,San Francisco,San Francisco,CA,94109,05:28
-GM Cruise LLC,Cruise,2019-03-24,11th St. and Folsom St.,San Francisco,San Francisco,CA,94103,22:50
-GM Cruise LLC,Cruise,2019-04-03,Portrero Avenue and Alameda Street,San Francisco,San Francisco,CA,94103,20:32
-GM Cruise LLC,Cruise,2019-04-10,Franklin St. between Olive St and Ellis St.,San Francisco,San Francisco,CA,94109,10:38
-GM Cruise LLC,Cruise,2019-04-10,Lyon St. and California St.,San Francisco,San Francisco,CA,94115,16:52
-GM Cruise LLC,Cruise,2019-04-14,36th Ave between Balboa St. and Anza St.,San Francisco,San Francisco,CA,94121,04:38
-GM Cruise LLC,Cruise,2019-04-14,Mason St. between Yacht Rd. and Javowitz St.,San Francisco,San Francisco,CA,94123,11:45
-GM Cruise LLC,Cruise,2019-05-02,24th St. and Potrero Ave,San Francisco,San Francisco,CA,94110,23:01
-GM Cruise LLC,Cruise,2019-05-04,Larkin St. and McAllister St.,San Francisco,San Francisco,CA,94102,16:39
-GM Cruise LLC,Cruise,2019-05-04,Duboce Ave between Steiner St and Sanchez St,San Francisco,San Francisco,CA,94114,22:56
-GM Cruise LLC,Cruise,2019-05-08,Franklin St. and Bay St.,San Francisco,San Francisco,CA,94123,08:55
-GM Cruise LLC,Cruise,2019-05-13,Filmore St. and Fell St.,San Francisco,San Francisco,CA,94117,12:32
-GM Cruise LLC,Cruise,2019-05-18,Euclid Ave. and Palm Ave.,San Francisco,San Francisco,CA,94118,19:31
-GM Cruise LLC,Cruise,2019-05-24,Geary Blvd between 8th Ave and 9th Ave,San Francisco,San Francisco,CA,94118,19:36
-GM Cruise LLC,Cruise,2019-06-08,Clay St. and Van Ness Ave.,San Francisco,San Francisco,CA,94109,09:02
-GM Cruise LLC,Cruise,2019-06-12,Folsom St between 13th St and 12th St,San Francisco,San Francisco,CA,94103,12:47
-GM Cruise LLC,Cruise,2019-06-13,Divisadero St. and Bush St.,Ssan Francisco,San Francisco,CA,94115,16:47
-GM Cruise LLC,Cruise,2019-06-20,Bush St. and Octavia St.,San Francisco,San Francisco,CA,94109,21:03
-GM Cruise LLC,Cruise,2019-06-23,Divisadero St. and Fell St.,San Francisco,San Francisco,CA,94117,12:03
-GM Cruise LLC,Cruise,2019-06-26,10th Ave and California St.,San Francisco,San Francisco,CA,94118,12:36
-GM Cruise LLC,Cruise,2019-06-27,Bryant St. and 10th St.,San Francisco,San Francisco,CA,94103,21:50
-GM Cruise LLC,Cruise,2019-06-29,Duboce Ave between Guerrero St. and Market St.,San Francisco,San Francisco,CA,94103,23:49
-GM Cruise LLC,Cruise,2019-07-01,Grant St. and Clay St.,San Francisco,San Francisco,CA,94108,10:58
-GM Cruise LLC,Cruise,2019-07-02,Steiner St. and Bush St.,San Francisco,San Francisco,CA,94115,09:47
-GM Cruise LLC,Cruise,2019-07-10,10th St. between Market St. and Mission St.,San Francisco,San Francisco,CA,94102,21:59
-GM Cruise LLC,Cruise,2019-07-15,14th St. and Valencia St.,Ssn Francisco,San Francisco,CA,94103,23:02
-GM Cruise LLC,Cruise,2019-07-17,Fell St. and Fillmore St.,San Francisco,San Francisco,CA,94117,15:02
-GM Cruise LLC,Cruise,2019-07-20,Mission St. between 2nd St. and Shaw Alley,San Francisco,San Francisco,CA,94105,20:58
-GM Cruise LLC,Cruise,2019-07-21,Jackson St between Stockton St and Grant Ave,San Francisco,San Francisco,CA,94133,06:20
-GM Cruise LLC,Cruise,2019-07-21,Market St at Duboce Ave and Church St,San Francisco,San Francisco,CA,94114,09:01
-GM Cruise LLC,Cruise,2019-08-04,Leavenworth St. and Geary St.,San Francisco,San Francisco,CA,94109,14:32
-GM Cruise LLC,Cruise,2019-08-07,24th St. between Noe St. and Sanchez St.,San Francisco,San Francisco,CA,94114,10:23
-GM Cruise LLC,Cruise,2019-08-10,14th St. and Noe St.,San Francisco,San Francisco,CA,94114,23:39
-GM Cruise LLC,Cruise,2019-08-22,Geary Blvd between 33rd Ave and 32nd Ave,San Francisco,San Francisco,CA,94121,13:13
-GM Cruise LLC,Cruise,2019-08-26,Division St. between Potrero Ave. and Bryant St.,San Francisco,San Francisco,CA,94103,21:14
-GM Cruise LLC,Cruise,2019-09-05,Haight St. and Gough St.,San Francisco,San Francisco,CA,94102,17:33
-GM Cruise LLC,Cruise,2019-09-09,Geary Blvd and Palm Ave.,San Francisco,San Francisco,CA,94118,16:24
-GM Cruise LLC,Cruise,2019-09-27,Clay St. and Kearny St.,San Francisco,San Francisco,CA,94108,11:49
-GM Cruise LLC,Cruise,2019-10-03,10th St. and Bryant St.,San Francisco,San Francisco,CA,94103,16:40
-Cruise LLC,Cruise,2019-10-12,Spear St. between Howard St. and Folsom St.,San Francisco,San Francisco,CA,94105,13:23
-"Lyft, Inc.","Lyft, Inc.",2019-02-28,Northbound Shoreline Boulevard and Wright Ave,Mountain View,Santa Clara,CA,94043,14:06
-"Lyft, Inc.","Lyft, Inc.",,Alma Road approaching Charleston Road,Palo Alto,Santa Clara,CA,94306,08:24
-"Lyft, Inc.","Lyft, Inc.",2019-03-12,739 Pettis Avenue,Mountain View,Santa Clara,CA,94041,16:05
-"Lyft, Inc.","Lyft, Inc.",2019-04-11,Natoma Street and 6th Street,San Francisco,San Francisco,CA,94103,11:31
-"Lyft, Inc.","Lyft, Inc.",2019-05-02,NB on San Antonio Rd.,Palo Alto,Santa Clara,CA,94306,15:50
-"Lyft, Inc","Lyft, Inc",,Medical Foundation Dr and El Camino Blvd.,Palo Alto,Santa Clara,CA,94301,02:04
-LYFT INC,LYFT INC,2020-12-02,EMBARCADERO & FERRY PLAZA,SAN FRANCISCO,SAN FRANCISCO,CA,94107,15:05
-Lyft Inc.,Lyft Inc.,2021-04-14,HARRISON & 1 ST,SAN FRANCISCO,SAN FRANCISCO,CA,94107,09:38
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-05-30,EB Condensa Street,Santa Clara,Santa Clara,CA,95051,16:30
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-06-01,710N NEAR 91E INTERCHANGE,LONG BEACH,LOS ANGELES,CA,90805,10:53
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-02-02,605N HWY,SANTA FE SPRINGS,LOS ANGELES,CA,90650,08:25
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-02-09,405FWY SOUTH,GARDENA,LOS ANGELES,CA,90248,15:10
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",,Highway 280 @ Bird Avenue,San Jose,Santa Clara,CA,95126,17:20
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2022-11-19,2895 Codensa Street,Santa Clara,Santa Clara,CA,95051,10:45
-"Mercedes-Benz Research & Development North America, Inc.","Mercedes-Benz Research & Development North America, Inc.",2022-05-19,710 S Fwy and Atlantic Blvd,Commerce,Los Angeles,CA,90040,15:05
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-04-26,San Thomas Expressway & Central Expressway,SANTA CLARA,SANTA CLARA,CA,95051,15:00
-"Mercedes-Benz Research & Development North America, Inc.","Mercedes-Benz Research & Development North America, Inc.",,105W to 405S interchange,Los Angeles,Los Angeles,CA,90250,18:05
-"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-11-29,"405S, BELLFLOWER EXIT",LONG BEACH,LOS ANGELES,CA,90810,17:00
-MOTIONAL AD INC.,MOTIONAL AD INC.,2022-05-17,4TH AV B/W BROOKS CT & BROADWAY ST,VENICE,LOS ANGELES,CA,90291,16:20
-Nuro Inc,Nuro Inc,2024-01-31,Intersection of Boyce Ave and Fife Ave,Palo Alto,Santa Clara,CA,94301,16:20
-Nuro Inc,Nuro Inc,2024-01-12,Cross street: Terra Bella and Shoreline,Mountain View,Santa Clara,CA,94043,14:30
-Nuro Inc,Nuro Inc,2024-03-12,Intersection of Thompson Ave. and Alvin Street,Mountain View,Santa Clara,CA,94043,20:20
-Nuro Inc,Nuro Inc,2023-07-24,Monecito and Shoreline,Mountain View,Santa Clara,CA,94043,16:30
-Nuro Inc,Nuro Inc,2023-11-27,1228 S Myrtle Ave,Inglewood,0,CA,90301,06:00
-"Pony.ai, Inc.",Pony.ai,2021-02-11,Milmont Dr. / Dixon Landing Rd.,Milpitas,Santa Clara,CA,95035,09:00
-"Pony.ai, Inc.",Pony.ai,2020-12-19,Intersection of Jamboree Rd and MacArthur Blvd,Irvine,0,CA,92660,12:46
-Pony.ai,Pony.ai,2022-04-11,301 Ranch Dr,Milpitas,Santa Clara,CA,95035,09:00
-Pony.ai,Pony.ai,2022-05-17,30407 Arroyo Dr,Irvine,Orange,CA,92617,15:00
-Pony.ai,Pony.ai,2021-10-28,Southbound on Fremont Blvd past Cushing Pkwy,Fremont,Alameda,CA,94538,10:50
-Pony.ai,Pony.ai,2023-06-05,Warren Ave & Kato Rd,Fremont,Alameda,CA,94538,11:39
-Pony.ai,Pony.ai,2023-09-15,Interstate 880; near exit 10,Milpitas,Alameda,CA,95035,17:02
-"Pony.ai, Inc.",Pony.ai,2020-05-30,Corner of Harvard and Barranca,Irvine,Orange County,CA,92606,10:19
-"Pony.AI, Inc.","Pony.AI, Inc.",,Pine Street at Cameron Hills Drive,Fremont,Alameda,CA,94539,02:26
-"Pony.AI, Inc","Pony.AI, Inc",2019-07-12,California Cir & Dixon Landing Rd,Milpitas,Alameda,CA,95035,17:00
-Pony.ai,Pony.ai,2022-03-28,Tustin Ranch Rd traveling eastbound,Tustin,Orange,CA,92606,11:30
-Zoox Inc,Zoox Inc,2020-07-14,Vallejo Street and Davis Street,San Francisco,San Francisco,CA,94111,13:50
-Waymo LLC,Waymo LLC,2020-01-07,Nita Avenue and San Antonio Road,Palo Alto,Santa Clara,CA,94306,10:05
-Waymo LLC,Waymo LLC,2021-01-13,26th Street at Bartlett Street,San Francisco,San Francisco,CA,94110,15:15
-Waymo LLC,Waymo LLC,2021-01-22,Precita Avenue at Cesar Chavez,San Francisco,San Francisco,CA,94110,10:54
-Waymo LLC,Waymo LLC,2019-01-26,Shoreline Blvd. at El Camino Real,Mountain View,Santa Clara,CA,94041,15:24
-Waymo LLC,Waymo LLC,2020-01-28,Oro Way at Space Park Way,Mountain View,Santa Clara,CA,94043,11:30
-Waymo LLC,Waymo LLC,2024-01-31,Potrero Avenue near 22nd Street,San Francisco,San Francisco,CA,94110,17:15
-Waymo LLC,Waymo LLC,2019-02-06,Central Expressway and Shoreline Boulevard,Mountain View,Santa Clara,CA,94043,09:08
-Waymo LLC,Waymo LLC,2019-02-10,SB Highway 85 at El Camino Real,Mountain View,Santa Clara,CA,94040,16:14
-Waymo LLC,Waymo LLC,2020-02-12,2042 Midvale Ave.,Los Angeles,Los Angeles,CA,90025,16:53
-Waymo LLC,Waymo LLC,2020-02-14,Park Drive at Miramonte Avenue,Mountain View,Santa Clara,CA,94040,17:52
-Waymo LLC,Waymo LLC,2023-02-15,North Point Street at Buchanan Street,San Francisco,San Francisco,CA,94123,05:44
-Waymo LLC,Waymo LLC,2021-02-16,16th Street at Market Street,San Francisco,San Francisco,CA,94114,17:50
-Waymo LLC,Waymo LLC,2021-02-17,Shrader Street at Haight Street,San Francisco,San Francisco,CA,94117,12:00
-Waymo LLC,Waymo LLC,2023-02-24,Toland Street at Hudson Avenue,San Francisco,San Francisco,CA,94124,12:15
-Waymo LLC,Waymo LLC,2021-02-25,3770 24th St.,San Francisco,San Francisco,CA,94114,16:06
-Waymo LLC,Waymo LLC,2021-02-25,618 Spruce St.,San Francisco,San Francisco,CA,94118,21:45
-Waymo LLC,Waymo LLC,2023-02-25,Noe Street at 25th Street,San Francisco,San Francisco,CA,94114,07:23
-Waymo LLC,Waymo LLC,2023-02-25,350 Pacific Ave,San Francisco,San Francisco,CA,94111,09:45
-Waymo LLC,Waymo LLC,2019-02-26,Miramonte Avenue at Covington Road,Los Altos,Santa Clara,CA,94024,06:56
-Waymo LLC,Waymo LLC,2020-02-26,Central Expressway and Shoreline Boulevard,Mountain View,Santa Clara,CA,94043,12:45
-Waymo LLC,Waymo LLC,2023-03-01,8077 O'Farrell Street,San Francisco,San Francisco,CA,94118,20:27
-Waymo LLC,Waymo LLC,2020-03-10,Whisman Station Drive at Central Expressway,Mountain View,Santa Clara,CA,94043,07:57
-Waymo LLC,Waymo LLC,2021-03-19,Church Street at 21st Street,San Francisco,San Francisco,CA,94114,11:40
-Waymo LLC,Waymo LLC,2023-03-20,Venice Boulevard and La Cienega,Los Angeles,Los Angeles,CA,90034,10:43
-Waymo LLC,Waymo LLC,2023-03-20,Bayshore Boulevard near Jerrold Avenue,San Francisco,San Francisco,CA,94124,20:04
-Waymo LLC,Waymo LLC,2021-03-24,Lomita Avenue at Aloha Avenue,San Francisco,San Francisco,CA,94122,07:45
-Waymo LLC,Waymo LLC,2019-03-26,E. Charleston Road and San Antonio Road,Palo Alto,Santa Clara,CA,94303,09:09
-Waymo LLC,Waymo LLC,2021-03-30,Filbert Street at Scott Street,San Francisco,San Francisco,CA,94123,08:20
-Waymo LLC,Waymo LLC,2021-03-31,9th Street at Howard Street,San Francisco,San Francisco,CA,94103,22:33
-Waymo LLC,Waymo LLC,2021-04-04,Jones Street at Clay Street,San Francisco,San Francisco,CA,94109,08:50
-Waymo LLC,Waymo LLC,2023-04-12,Wilshire Boulevard at 26th Street,Santa Monica,Los Angeles,CA,90403,17:29
-Waymo LLC,Waymo LLC,2021-04-17,Harrison Street at Hawthorne Street,San Francisco,San Francisco,CA,94107,04:03
-Waymo LLC,Waymo LLC,2021-04-18,Park Presidio Bypass approaching Crossover Drive,San Francisco,San Francisco,CA,94121,16:00
-Waymo LLC,Waymo LLC,2022-04-18,200 block of Duboce Avenue,San Francisco,San Francisco,CA,94103,02:31
-Waymo LLC,Waymo LLC,2022-04-18,5th Street and Bryant Street,San Francisco,San Francisco,CA,94107,08:14
-Waymo LLC,Waymo LLC,2023-04-30,Oak Street at Octavia Boulevard,San Francisco,San Francisco,CA,94102,13:53
-Waymo LLC,Waymo LLC,2023-05-03,Pine Street near Broderick Street,San Francisco,San Francisco,CA,94115,10:32
-Waymo LLC,Waymo LLC,2019-05-15,Shoreline Blvd. at El Camino Real,Mountain View,Santa Clara,CA,94041,06:08
-Waymo LLC,Waymo LLC,2019-05-22,Whisman Station Drive at S. Whisman Road,Mountain View,Santa Clara,CA,94043,17:23
-Waymo LLC,Waymo LLC,2019-05-29,San Antonio Road at Charleston Road,Palo Alto,Santa Clara,CA,94303,16:07
-Waymo LLC,Waymo LLC,2021-06-02,Eugenia Avenue at Elsie Street,San Francisco,San Francisco,CA,94110,09:00
-Waymo LLC,Waymo LLC,2021-06-02,Buchanan Street and Vallejo Street,San Francisco,San Francisco,CA,94123,09:10
-Waymo LLC,Waymo LLC,2021-06-03,Laguna Street at Vallejo Street,San Francisco,San Francisco,CA,94123,17:52
-Waymo LLC,Waymo LLC,2021-06-04,Jones Street at Ellis Street,San Francisco,San Francisco,CA,94102,13:18
-Waymo LLC,Waymo LLC,2021-06-11,Euclid Avenue at Collins Street,San Francisco,San Francisco,CA,94118,07:07
-Waymo LLC,Waymo LLC,2019-06-16,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,11:30
-Waymo LLC,Waymo LLC,2021-06-16,McAllister Street and Larkin Street,San Francisco,San Francisco,CA,94102,17:48
-Waymo LLC,Waymo LLC,2021-06-25,Brannan Street at Division Street,San Francisco,San Francisco,CA,94103,21:50
-Waymo LLC,Waymo LLC,2021-06-26,3023 21st Street,San Francisco,San Francisco,CA,94110,12:35
-Waymo LLC,Waymo LLC,2022-07-01,355 Bayshore Blvd,San Francisco,San Francisco,CA,94124,10:08
-Waymo LLC,Waymo LLC,2019-07-08,Escuela Avenue and El Camino Real,Mountain View,Santa Clara,CA,94040,15:10
-Waymo LLC,Waymo LLC,2020-07-09,Glenbrook Avenue and Palo Alto Avenue,San Francisco,San Francisco,CA,94131,18:34
-Waymo LLC,Waymo LLC,2021-07-09,Bush Street and Grant Avenue,San Francisco,San Francisco,CA,94108,14:40
-Waymo LLC,Waymo LLC,2021-07-12,Broadway Street at Gough Street,San Francisco,San Francisco,CA,94109,15:30
-Waymo LLC,Waymo LLC,2021-07-14,"2500 Block, Clement St",San Francisco,San Francisco,CA,94121,16:47
-Waymo LLC,Waymo LLC,2019-07-16,Central Expressway at Thompson Avenue,Mountain View,Santa Clara,CA,94043,16:44
-Waymo LLC,Waymo LLC,2022-07-24,Connecticut Street north of 25th Street,San Francisco,San Francisco,CA,94107,11:16
-Waymo LLC,Waymo LLC,2021-08-01,Cabrillo Street and 23rd Avenue,San Francisco,San Francisco,CA,94121,16:48
-Waymo LLC,Waymo LLC,2021-08-05,200 Block of Parnassus Avenue,San Francisco,San Francisco,CA,94117,12:41
-Waymo LLC,Waymo LLC,2019-08-09,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,07:45
-Waymo LLC,Waymo LLC,2019-08-09,N. Shoreline Boulevard at W. Middlefield Road,Mountain View,Santa Clara,CA,94043,09:56
-Waymo LLC,Waymo LLC,2022-08-10,Market Street & Clayton Street,San Francisco,San Francisco,CA,94114,17:05
-Waymo LLC,Waymo LLC,2019-08-12,S. Rengstorff Avenue at Crisanto Avenue,Mountain View,Santa Clara,CA,94040,08:15
-Waymo LLC,Waymo LLC,2019-08-13,Page Mill Road at Oregon Expressway,Palo Alto,Santa Clara,CA,94306,16:31
-Waymo LLC,Waymo LLC,2022-08-13,106 Noe Street,San Francisco,San Francisco,CA,94114,03:09
-Waymo LLC,Waymo LLC,2021-08-14,Alabama Street at 24th Street,San Francisco,San Francisco,CA,94110,10:11
-Waymo LLC,Waymo LLC,2022-08-14,14th Street at Market Street,San Francisco,San Francisco,CA,94114,18:08
-Waymo LLC,Waymo LLC,2022-08-16,Martin Luther King Jr. Drive at 25th Avenue,San Francisco,San Francisco,CA,94122,03:52
-Waymo LLC,Waymo LLC,2022-08-16,Broadway at Sansome Street,San Francisco,San Francisco,CA,94133,09:12
-Waymo LLC,Waymo LLC,2021-08-21,Scott Street and Sacramento Street,San Francisco,San Francisco,CA,94115,15:24
-Waymo LLC,Waymo LLC,2021-08-27,Presidio Avenue and Bush Street,San Francisco,San Francisco,CA,94115,16:15
-Waymo LLC,Waymo LLC,2019-09-14,4800 El Camino Real,Los Altos,Santa Clara,CA,94022,14:12
-Waymo LLC,Waymo LLC,2021-10-01,John F. Kennedy Drive at Stanyayn Street,San Francisco,San Francisco,CA,94117,15:51
-Waymo LLC,Waymo LLC,2019-10-10,Rengstorff Avenue at Central Expressway,Mountain View,Santa Clara,CA,94043,12:58
-Waymo LLC,Waymo LLC,2019-10-14,Cuesta Drive at S. San Antonio Road,Los Altos,Santa Clara,CA,94022,21:03
-Waymo LLC,Waymo LLC,2019-10-16,Distel Drive at El Camino Real,Mountain View,Santa Clara,CA,94022,07:45
-Waymo LLC,Waymo LLC,2019-10-18,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,10:30
-Waymo LLC,Waymo LLC,2019-10-19,3191 Middlefield Rd.,Palo Alto,Santa Clara,CA,94306,09:40
-Waymo LLC,Waymo LLC,2019-10-28,Whisman Station Drive and Central Expressway,Mountain View,Santa Clara,CA,94043,07:43
-Waymo LLC,Waymo LLC,2019-10-28,Castro Street at Central Expressway,Mountain View,Santa Clara,CA,94041,10:47
-Waymo LLC,Waymo LLC,2019-11-04,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,18:22
-Waymo LLC,Waymo LLC,2022-12-17,Embarcadero at Howard Street,San Francisco,San Francisco,CA,94105,13:50
-Waymo LLC,Waymo LLC,2020-12-18,151 Sanchez St.,San Francisco,San Francisco,CA,94114,06:14
-Waymo LLC,Waymo LLC,2021-12-19,Fulton Street and 5th Avenue,San Francisco,San Francisco,CA,94118,10:30
-Waymo LLC,Waymo LLC,2019-12-20,Whisman Station Drive and Central Expressway,Mountain View,Santa Clara,CA,94043,09:13
-Waymo LLC,Waymo LLC,2021-12-22,Cesar Chavez and Valencia St,San Francisco,San Francisco,CA,94110,12:35
-Waymo LLC,Waymo LLC,2020-12-29,3rd Street at 24th Street,San Francisco,San Francisco,CA,94107,17:45
-Waymo LLC,Waymo LLC,2021-05-23,Sanchez Street at 16th Street,San Francisco,San Francisco,CA,94114,14:42
-Waymo LLC,Waymo LLC,2023-06-18,Market Street at Diamond Street,San Francisco,San Francisco,CA,94114,17:06
-Waymo LLC,Waymo LLC,2022-06-21,Parking Entrance near Brannan Street and 9th Street,San Francisco,San Francisco,CA,94103,12:21
-Waymo LLC,Waymo LLC,2021-09-22,Lombard Street and Scott Street,San Francisco,San Francisco,CA,94123,04:29
-Waymo LLC,Waymo LLC,2020-09-05,Clement Street at 12th Avenue,San Francisco,San Francisco,CA,94118,12:21
-Waymo LLC,Waymo LLC,2022-01-01,Marin Street at Kansas Street,San Francisco,San Francisco,CA,94124,02:04
-Waymo LLC,Waymo LLC,2022-01-03,100 Block of Bayshore Blvd,San Francisco,San Francisco,CA,94124,09:00
-Waymo LLC,Waymo LLC,2022-01-06,Divisadero Street and Geary Boulevard,San Francisco,San Francisco,CA,94115,09:25
-Waymo LLC,Waymo LLC,2022-01-18,14 Street and S Van Ness Avenue,San Francisco,San Francisco,CA,94103,17:20
-Waymo LLC,Waymo LLC,2022-01-20,Polk Street at Sacramento Street,San Francisco,San Francisco,CA,94109,14:24
-Waymo LLC,Waymo LLC,2022-01-20,Sunset Boulevard and Judah Street,San Francisco,San Francisco,CA,94122,20:36
-Waymo LLC,Waymo LLC,2022-01-22,Folsom Street and 23rd Street,San Francisco,San Francisco,CA,94110,02:11
-Waymo LLC,Waymo LLC,2023-01-22,Bayshore Boulevard at Jerrold Avenue,San Francisco,San Francisco,CA,94124,17:08
-Waymo LLC,Waymo LLC,2022-01-28,Noriega Street at 25th Avenue,San Francisco,San Francisco,CA,94122,20:40
-Waymo LLC,Waymo LLC,2022-01-28,Franklin Street at Golden Gate Avenue,San Francisco,San Francisco,CA,94102,06:30
-Waymo LLC,Waymo LLC,2022-02-01,Clipper Street and Noe Street,San Francisco,San Francisco,CA,94114,08:44
-Waymo LLC,Waymo LLC,2022-02-04,2nd Avenue and Fulton Street,San Francisco,San Francisco,CA,94118,11:00
-Waymo LLC,Waymo LLC,2022-02-06,Pine Street at Fillmore Street,San Francisco,San Francisco,CA,94115,13:53
-Waymo LLC,Waymo LLC,2022-02-08,Harrison Street and 9th Street,San Francisco,San Francisco,CA,94103,08:56
-Waymo LLC,Waymo LLC,2022-02-09,Coral Road at Wisconsin Street,San Francisco,San Francisco,CA,94107,15:05
-Waymo LLC,Waymo LLC,2022-02-09,Parker Avenue at McAllister Street,San Francisco,San Francisco,CA,94118,17:46
-Waymo LLC,Waymo LLC,2022-02-10,Broadway at Montgomery Street,San Francisco,San Francisco,0,94133,20:00
-Waymo LLC,Waymo LLC,2022-02-11,Mission Street and Silver Avenue,San Francisco,San Francisco,CA,94112,02:07
-Waymo LLC,Waymo LLC,2022-02-11,Market Street and Valencia Street,San Francisco,San Francisco,CA,94103,17:36
-Waymo LLC,Waymo LLC,2022-02-14,Kansas Street at 16th Street,San Francisco,San Francisco,CA,94103,15:02
-Waymo LLC,Waymo LLC,2022-02-19,100 Block of Bayshore Avenue,San Francisco,San Francisco,CA,94124,19:45
-Waymo LLC,Waymo LLC,2022-02-28,Cesar Chavez and Mission Street,San Francisco,San Francisco,CA,94110,12:49
-Waymo LLC,Waymo LLC,2022-02-28,Polk Street and Jackson Street,San Francisco,San Francisco,CA,94109,13:00
-Waymo LLC,Waymo LLC,2021-03-05,Oakdale Avenue at Industrial Street,San Francisco,San Francisco,CA,94124,20:40
-Waymo LLC,Waymo LLC,2022-03-06,Oak Street at Divisadero Street,San Francisco,San Francisco,CA,94117,18:00
-Waymo LLC,Waymo LLC,2022-03-07,Avila Street at Casa Way and Marina Boulevard,San Francisco,San Francisco,CA,94123,07:35
-Waymo LLC,Waymo LLC,2022-03-09,Irving Street at 25th Avenue,San Francisco,San Francisco,CA,94122,12:22
-Waymo LLC,Waymo LLC,2022-03-11,123 Vicente St,San Francisco,San Francisco,CA,94127,10:15
-Waymo LLC,Waymo LLC,2023-03-12,Cesar Chavez Street at Mission Street,San Francisco,San Francisco,CA,94110,21:28
-Waymo LLC,Waymo LLC,2023-03-16,"Exit Ramp 43A, Interstate 280",San Bruno,San Mateo,CA,94066,02:19
-Waymo LLC,Waymo LLC,2023-03-16,367 Bayshore Boulevard,San Francisco,San Francisco,CA,94124,17:10
-Waymo LLC,Waymo LLC,2022-03-26,Oakdale Avenue and Toland Street,San Francisco,San Francisco,CA,94124,01:16
-Waymo LLC,Waymo LLC,2022-03-31,1000 block of Potrero Avenue,San Francisco,San Francisco,CA,94110,11:07
-Waymo LLC,Waymo LLC,2022-04-01,19th Avenue and Lincoln Way,San Francisco,San Francisco,CA,94122,02:27
-Waymo LLC,Waymo LLC,2022-04-05,Quintara Street and 20th Avenue,San Francisco,San Francisco,CA,94116,19:55
-Waymo LLC,Waymo LLC,2022-04-08,Pine Street and Polk Street,San Francisco,San Francisco,CA,94109,12:31
-Waymo LLC,Waymo LLC,2022-04-11,Townsend St and Embarcadero,San Francisco,San Francisco,CA,94107,22:36
-Waymo LLC,Waymo LLC,2022-04-13,Jerrold Avenue at Bayshore Blvd,San Francisco,San Francisco,CA,94124,14:53
-Waymo LLC,Waymo LLC,2022-04-24,Lincoln Way at 17th Avenue,San Francsico,San Francisco,CA,94122,16:36
-Waymo LLC,Waymo LLC,2022-04-26,Folsom Street at Mabini Street,San Francisco,San Francisco,CA,94103,13:19
-Waymo LLC,Waymo LLC,2022-04-29,Sacramento Street at Polk Street,San Francisco,San Francisco,CA,94109,06:37
-Waymo LLC,Waymo LLC,2022-04-30,24th Street and Guerrero Street,San Francisco,San Francisco,CA,94110,20:40
-Waymo LLC,Waymo LLC,2022-05-04,175 Bayshore Boulevard,San Francisco,San Francisco,CA,94124,13:26
-Waymo LLC,Waymo LLC,2022-05-11,24th Street and Capp Street,San Francisco,San Francisco,CA,94110,09:19
-Waymo LLC,Waymo LLC,2022-05-17,Stanyan Street and McAllister Street,San Francisco,San Francisco,CA,94118,13:26
-Waymo LLC,Waymo LLC,2022-05-21,Coleridge Street at Coso Avenue,San Francisco,San Francisco,CA,94110,10:03
-Waymo LLC,Waymo LLC,2022-05-27,Bush Street at Stockton Street,San Francisco,San Francisco,CA,94108,01:16
-Waymo LLC,Waymo LLC,2022-06-01,McAllister Street and Franklin Street,San Francisco,San Francisco,CA,94102,07:26
-Waymo LLC,Waymo LLC,2022-06-05,Bush Street and Gough Street,San Francisco,San Francisco,CA,94109,10:07
-Waymo LLC,Waymo LLC,2022-07-02,Embarcadero at Broadway,San Francisco,San Francisco,CA,94111,06:54
-Waymo LLC,Waymo LLC,2022-07-02,Bayshore Boulevard at Jerrold Avenue,San Francisco,San Francisco,CA,94124,23:23
-Waymo LLC,Waymo LLC,2022-07-03,19th Street at Valencia Street,San Francisco,San Francisco,CA,94110,02:50
-Waymo LLC,Waymo LLC,2022-07-05,17th Street at Wisconsin Street,San Francisco,San Francisco,CA,94107,15:26
-Waymo LLC,Waymo LLC,2021-08-13,Oakdale Avenue and Toland Street,San Francisco,San Francisco,CA,94124,08:04
-Waymo LLC,Waymo LLC,2022-08-25,15th Street at Albion Street,San Francisco,San Francisco,CA,94103,18:05
-Waymo LLC,Waymo LLC,2021-08-31,25th Street at York Street,San Francisco,San Francisco,CA,94110,07:30
-Waymo LLC,Waymo LLC,2021-08-31,Cook Street and Geary Street,San Francisco,San Francisco,CA,94118,17:43
-Waymo LLC,Waymo LLC,2021-09-02,8th Avenue at Lake Street,San Francisco,San Francisco,CA,94118,01:56
-Waymo LLC,Waymo LLC,2022-09-10,2121 Evans Avenue,San Francisco,San Francisco,CA,94124,12:57
-Waymo LLC,Waymo LLC,2022-09-15,California Street at 19th Avenue,San Francisco,San Francisco,CA,94121,09:42
-Waymo LLC,Waymo LLC,2021-09-16,Industrial Street and Palou Avenue,San Francisco,San Francisco,CA,94124,17:14
-Waymo LLC,Waymo LLC,2021-09-17,York Street and Cesar Chavez,San Francisco,San Francisco,CA,94110,12:30
-Waymo LLC,Waymo LLC,2021-09-17,444 Washington Street,San Francisco,San Francisco,CA,94111,11:39
-Waymo LLC,Waymo LLC,2022-09-17,Potrero Avenue and 24th Street,San Francisco,San Francisco,CA,94110,06:38
-Waymo LLC,Waymo LLC,2021-10-07,Mission St and Highland Ave,San Francisco,San Francisco,CA,94110,23:12
-Waymo LLC,Waymo LLC,2021-10-08,301 Ellsworth Street,San Francisco,San Francisco,CA,94110,08:39
-Waymo LLC,Waymo LLC,2021-10-08,4423 Mission Street,San Francisco,San Francisco,CA,94112,18:39
-Waymo LLC,Waymo LLC,2021-10-18,Cesar Chavez and Evans Avenue,San Francisco,San Francisco,CA,94124,12:57
-Waymo LLC,Waymo LLC,2021-10-19,California Street and Jordan Avenue,San Francisco,San Francisco,CA,94118,12:33
-Waymo LLC,Waymo LLC,2022-10-21,Larkin Street and O'Farrell Street,San Francisco,San Francisco,CA,94109,13:55
-Waymo LLC,Waymo LLC,2022-10-21,Filbert Street at Kearny Street,San Francisco,San Francisco,CA,94133,08:27
-Waymo LLC,Waymo LLC,2021-10-27,Bayshore Blvd and Flower Street,San Francisco,San Francisco,CA,94124,15:54
-Waymo LLC,Waymo LLC,2021-10-28,Silver Avenue and Bayshore Blvd.,San Francisco,San Francisco,CA,94124,21:35
-Waymo LLC,Waymo LLC,2022-11-03,101 Villa Terrace,San Francisco,San Francisco,CA,94114,16:30
-Waymo LLC,Waymo LLC,2021-11-04,Green Street at Icehouse Alley,San Francisco,San Francisco,CA,94111,06:41
-Waymo LLC,Waymo LLC,2021-11-06,Waller St at Alpine Terrace,San Francisco,San Francisco,CA,94117,01:50
-Waymo LLC,Waymo LLC,2021-11-06,Powell Street and Pacific Avenue,San Francisco,San Francisco,CA,94133,16:28
-Waymo LLC,Waymo LLC,2022-11-08,2nd Street at Minna Street,San Francisco,San Francisco,CA,94105,09:34
-Waymo LLC,Waymo LLC,2021-11-12,Divisadero Street and Golden Gate Avenue,San Francisco,San Francisco,CA,94115,13:23
-Waymo LLC,Waymo LLC,2021-11-15,40th Ave and Noriega Street,San Francisco,San Francisco,CA,94122,02:20
-Waymo LLC,Waymo LLC,2021-11-20,Steiner Street and Post Street,San Francisco,San Francisco,CA,94115,11:11
-Waymo LLC,Waymo LLC,2021-11-25,32nd Avenue and Taraval Street,San Francisco,San Francisco,CA,94116,13:31
-Waymo LLC,Waymo LLC,2021-11-26,"Scotia Ave, Thornton Ave, and Bridgeview Dr",San Francisco,San Francisco,CA,94124,20:02
-Waymo LLC,Waymo LLC,2021-11-28,Clay Street and Franklin Street,San Francisco,San Francisco,CA,94109,18:08
-Waymo LLC,Waymo LLC,2021-11-30,10 block of Castro Street,San Francisco,San Francisco,CA,94117,12:21
-Waymo LLC,Waymo LLC,2022-12-01,Franklin Street at O'Farrell Street,San Francisco,San Francisco,CA,94109,07:57
-Waymo LLC,Waymo LLC,2021-12-03,16th Street at Market and Noe Street,San Francisco,San Francisco,CA,94114,12:23
-Waymo LLC,Waymo LLC,2021-12-04,19th Avenue and Winston Drive,San Francisco,San Francisco,CA,94132,16:10
-Waymo LLC,Waymo LLC,2021-12-07,Oak Street & Stanyan Street,San Francisco,San Francisco,CA,94117,10:47
-Waymo LLC,Waymo LLC,2021-12-11,1900 Noriega Street,San Francisco,San Francisco,CA,94122,02:28
-Waymo LLC,Waymo LLC,2022-12-12,Monterey Blvd and Acadia Street,San Francisco,San Francisco,CA,94131,16:54
-Waymo LLC,Waymo LLC,2022-12-13,19th Avenue and Ulloa Street,San Francisco,San Francisco,CA,94116,12:35
-Waymo LLC,Waymo LLC,2022-12-13,Broadway at Kearny Street,San Francisco,San Francisco,CA,94133,22:11
-Waymo LLC,Waymo LLC,2022-12-29,3rd Street at Mariposa Street,San Francisco,San Francisco,CA,94158,03:15
-Waymo LLC,Waymo LLC,2024-01-08,Manhattan Place at West Adams Boulevard,Los Angeles,Los Angeles,CA,90018,12:05
-Waymo LLC,Waymo LLC,2024-02-05,Watt Way and West Exposition Boulevard,Los Angeles,Los Angeles,CA,90089,22:01
-Waymo LLC,Waymo LLC,2024-02-18,The Embarcadero at Washington Street,San Francisco,San Francisco,CA,94111,01:03
-Waymo LLC,Waymo LLC,2024-03-02,Odd Fellows Way and 7th Street,San Francisco,San Francisco,CA,94103,08:15
-Waymo LLC,Waymo LLC,2024-03-03,0,0,0,0,0,15:12
-Waymo LLC,Waymo LLC,2024-03-08,S Figueroa Street at Venice Boulevard,Los Angeles,Los Angeles,CA,90015,12:06
-Waymo LLC,Waymo LLC,2024-03-14,S Figueroa Street at 7th Street,Los Angeles,Los Angeles,CA,90017,14:42
-Waymo LLC,Waymo LLC,2023-04-03,Jack London Alley at Varney Place,San Francisco,San Francisco,CA,94107,22:56
-Waymo LLC,Waymo LLC,2023-04-05,Potrero Avenue at 21st Street,San Francisco,San Francisco,CA,94110,10:46
-Waymo LLC,Waymo LLC,2023-04-06,Randall Street near Harper Street,San Francisco,San Francisco,CA,94110,10:48
-Waymo LLC,Waymo LLC,2023-04-28,25th St & Sanchez St,San Francisco,San Francisco,CA,94114,17:29
-Waymo LLC,Waymo LLC,2023-05-06,Post Street at Webster Street,San Francisco,San Francisco,CA,94115,20:48
-Waymo LLC,Waymo LLC,2023-05-07,Bay Street near Mason Street,San Francisco,San Francisco,CA,94133,15:29
-Waymo LLC,Waymo LLC,2023-05-21,Toland Street at Toland Place,San Francisco,San Francisco,CA,94124,10:56
-Waymo LLC,Waymo LLC,2023-06-05,3911 3rd Street,San Francisco,San Francisco,CA,94124,12:53
-Waymo LLC,Waymo LLC,2023-06-09,Fell Street at Laguna Street,San Francisco,San Francisco,CA,94102,14:47
-Waymo LLC,Waymo LLC,2023-06-11,Santiago Street near 42nd Avenue,San Francisco,San Francisco,CA,94116,15:44
-Waymo LLC,Waymo LLC,2023-06-28,Great Highway near Kirkham Street,San Francisco,San Francisco,CA,94122,21:19
-Waymo LLC,Waymo LLC,2023-06-29,Jersey Street at Church Street,San Francisco,San Francisco,CA,94114,07:50
-Waymo LLC,Waymo LLC,2023-06-29,4th Street at S. June Street,Los Angeles,Los Angeles,CA,90020,23:18
-Waymo LLC,Waymo LLC,2023-07-03,Hampshire Street at 21st Street,San Francisco,San Francisco,CA,94110,13:13
-Waymo LLC,Waymo LLC,2023-07-08,S Alameda Street and 6th Street,Los Angeles,Los Angeles,CA,90021,15:08
-Waymo LLC,Waymo LLC,2023-07-11,Martin Ave at Mullin Ave,San Francisco,San Francisco,CA,94110,10:13
-Waymo LLC,Waymo LLC,2023-07-21,Leavenworth Street at Golden Gate Avenue,San Francisco,San Francisco,CA,94102,09:51
-Waymo LLC,Waymo LLC,2023-07-22,13th Street east of Folsom Street,San Francisco,San Francisco,CA,94103,11:11
-Waymo LLC,Waymo LLC,,Harrison Street at 2nd Street,San Francisco,San Francisco,CA,94107,15:04
-Waymo LLC,Waymo LLC,2023-07-29,Colorado Avenue near Ocean Avenue,Santa Monica,Los Angeles,CA,90401,14:57
-Waymo LLC,Waymo LLC,2023-08-02,Bush Street at Polk Street,San Francisco,San Francisco,CA,94109,22:09
-Waymo LLC,Waymo LLC,2023-08-11,North Curson Avenue at Waring Avenue,Los Angeles,Los Angeles,CA,90046,19:38
-Waymo LLC,Waymo LLC,2023-08-13,Howard Street at Fourth Street,San Francisco,San Francisco,CA,94103,21:01
-Waymo LLC,Waymo LLC,2023-08-19,13th Street at Mission Street,San Francisco,San Francisco,CA,94103,16:45
-Waymo LLC,Waymo LLC,2023-08-20,Martin Luther King Jr. Drive at Crossover Drive,San Francisco,San Francisco,CA,94122,17:48
-Waymo LLC,Waymo LLC,2023-08-23,Mason Street at Vandewater Street,San Francisco,San Francisco,CA,94133,21:54
-Waymo LLC,Waymo LLC,2023-08-24,Michigan Avenue at Euclid Street,Santa Monica,Los Angeles,CA,90404,16:39
-Waymo LLC,Waymo LLC,2023-09-03,East 8th Street and South Main Street,Los Angeles,Los Angeles,CA,90014,12:25
-Waymo LLC,Waymo LLC,2023-09-11,Sansome Street near Vallejo Street,San Francisco,San Francisco,CA,94133,20:34
-Waymo LLC,Waymo LLC,2023-09-30,US-101 Exit 429B at Bayshore Blvd,San Francisco,San Francisco,CA,94124,21:00
-Waymo LLC,Waymo LLC,2023-10-17,Market Street at Gough Street,San Francisco,San Francisco,CA,94103,09:24
-Waymo LLC,Waymo LLC,2023-10-26,13th Street near Bernice Street,San Francisco,San Francisco,CA,94103,07:48
-Waymo LLC,Waymo LLC,2023-11-03,3rd Street at Stevenson Street,San Francisco,San Francisco,CA,94103,15:44
-Waymo LLC,Waymo LLC,2023-11-22,West 7th Street at South Park View Street,Los Angeles,Los Angeles,CA,90057,19:59
-WeRide,WeRide,2023-03-09,Washington and The Embarcadero,SAN FRANCISCO,SAN FRANCISCO,CA,94105,16:12
-Weride Corp,Weride Corp,2021-07-16,2630 Orchard Parkway,San Jose,Santa Clara,CA,95134,11:35
-Weride Corp,Weride Corp,2021-06-29,280 S 1st Street,San Jose,Santa Clara,CA,95113,14:54
-WeRide Corp,WeRide Corp,2021-11-03,87 S On-ramp from Charcot Ave,San Jose,Santa Clara,CA,95131,15:27
-WERIDE,WERIDE,2024-01-17,On 2nd St Left turn to  E San Fernando St,San Jose,Santa Clara,CA,95134,12:56
-WeRide.ai,WeRide.ai,2023-05-01,Bay St and Columbus Ave,San Francisco,San Francisco,CA,94133,11:41
-WeRide.ai,WeRide.ai,2023-06-08,E Trimble Rd between Junction Ave and Zanker Rd,San Jose,Santa Clara,CA,95134,14:06
-WERIDE,WERIDE,2023-08-11,Van Ness Ave between Eddy St and Turk St,San Francisco,San Francisco,CA,94109,13:45
-WERIDE,WERIDE,2023-09-28,On Embarcadero St left turning lane to Howard St,San Francisco,San Francisco,CA,94105,13:54
-0,0,2022-08-08,Fell Street and Divisadero Street,San Francisco,San Francisco,CA,94117,10:10
-Zoox Inc.,Zoox,2020-01-08,Green St. and Grant St.,San Francisco,San Francisco,CA,94133,09:10
-Zoox Inc.,Zoox,2020-01-13,Mason St. and Sutter St.,San Francisco,San Francisco,CA,94108,18:15
-Zoox Inc.,Zoox,2020-01-14,5th St. and Folsom St.,San Francisco,San Francisco,CA,94107,15:46
-Zoox Inc.,Zoox,2020-01-21,3rd St. and Mission St.,San Francisco,San Francisco,CA,94103,08:44
-Zoox Inc.,Zoox,2020-01-21,Broadway St. and Powell St.,San Francisco,San Francisco,CA,94133,11:08
-Zoox,Zoox,2023-01-30,Intersection of Folsom Street and 2nd Street,San Francisco,San Francisco,CA,94107,17:57
-Zoox,Zoox,2023-02-07,2nd Street and Folsom Street Intersection,San Francisco,San Francisco,CA,94107,14:28
-Zoox,Zoox,2023-02-08,Embarcadero between Howard St. and Folsom St.,San Francisco,San Francisco,CA,94105,13:27
-Zoox Inc.,Zoox Inc.,2021-02-11,Green near Columbus,San Francisco,San Francisco,CA,94113,09:34
-Zoox,Zoox,2023-02-11,5th Street and Jesse Street,San Francisco,San Francisco,CA,94103,18:06
-Zoox Inc.,Zoox,2020-02-21,California St and Mason Street,San Francisco,San Francisco,CA,94108,09:25
-Zoox,Zoox,2023-02-23,Harrison St. and Sixth St. Intersection,San Francisco,San Francisco,CA,94103,15:36
-Zoox Inc.,Zoox,2020-02-26,Montgomery St and Clay St,San Francisco,San Francisco,CA,94111,11:28
-Zoox Inc.,Zoox,2020-02-26,Montgomery St and Pacific St,San Francisco,San Francisco,CA,94133,20:52
-Zoox Inc.,Zoox Inc.,2021-03-18,Folsom between 4th and Mabini St.,San Francisco,San Francisco,CA,94103,17:47
-Zoox,Zoox,2023-04-11,Lombard Street,San Francisco,San Francisco,CA,94133,10:54
-Zoox Inc.,Zoox Inc.,2022-04-22,Mason St. and Ellis St. Intersection,San Francisco,San Francisco,CA,94102,17:50
-Zoox Inc.,Zoox,2019-06-11,Grant Ave & Union St,San Francisco,San Francisco,CA,94133,11:16
-Zoox Inc.,Zoox,2019-06-19,Mason St & Sutter St,San Francisco,San Francisco,CA,94108,11:18
-Zoox Inc.,Zoox Inc.,2022-06-28,Kearny Street approaching Post Street,San Francisco,San Francisco,CA,94108,14:36
-Zoox Inc.,Zoox Inc.,2021-07-13,Montgomery St. approaching Jackson St.,San Francisco,San Francisco,CA,94133,14:11
-Zoox Inc.,Zoox Inc.,2022-07-22,14th St. & Harrison St. Intersection,San Francisco,San Francisco,CA,94103,14:30
-Zoox Inc.,Zoox,2019-07-23,Hyde St & Union St,San Francisco,San Francisco,CA,94109,20:50
-Zoox Inc.,Zoox Inc.,,Polk and Green Street,San Francisco,San Francisco,CA,94109,10:50
-Zoox Inc.,Zoox Inc.,2020-08-20,Howard St between Moss & Russ Street,San Francisco,San Francisco,CA,94103,12:05
-Zoox Inc.,Zoox Inc.,2020-09-16,Intersection of Folsom and 5th Street,San Francisco,San Francisco,CA,94107,10:40
-Zoox Inc.,Zoox Inc.,2020-10-06,Harrison St / 13th St,San Francisco,San Francisco,CA,94103,13:40
-Zoox Inc.,Zoox,2019-10-11,Union St. and Grant St.,San Francisco,San Francisco,CA,94133,12:10
-Zoox Inc.,Zoox,2019-10-12,Polk St. and Green St.,San Francisco,San Francisco,CA,94109,14:00
-Zoox,Zoox,2022-10-14,Broadway St & Sansome St Intersection,San Francisco,San Francisco,CA,94133,14:52
-Zoox,Zoox,2022-11-20,The Embarcadero and Washington Street,San Francisco,San Francisco,CA,94111,13:24
-Zoox Inc,Zoox,2019-11-22,5th St. and Folsom St.,San Francisco,San Francisco,CA,94017,23:11
-Zoox Inc,Zoox Inc,2019-12-19,NB Kearny Street before Post Street,San Francisco,San Francisco,CA,94108,09:45
-Zoox Inc,Zoox Inc,2019-12-20,Kearny Street and Jackson Street,San Francisco,San Francisco,CA,94108,09:00
-Zoox Inc.,Zoox Inc.,2021-12-08,Intersection of Montgomery and Pacific,San Francisco,San Francisco,CA,94112,10:00
-Zoox,Zoox,2023-01-01,Mason Street and Eddy Street,San Francisco,San Francisco,CA,94102,18:40
-Zoox Inc.,Zoox Inc.,2022-01-04,Montgomery Street after the Clay Street Intersection,San Francisco,San Francisco,CA,94111,11:30
-Zoox Inc.,Zoox Inc.,2022-01-11,13th and Bryant St.,San Francisco,CA,CA,94103,08:55
-Zoox Inc.,Zoox Inc.,2022-01-16,Alameda St. & Potrero Ave.,San Francisco,San Francisco,CA,94103,13:57
-Zoox Inc.,Zoox Inc.,2022-02-05,Brannan and 7th Intersection,San Francisco,San Fancisco,CA,94103,20:55
-Zoox Inc.,Zoox Inc.,2022-02-06,Treat Avenue,San Francisco,San Francisco,CA,94103,08:40
-Zoox,Zoox,2023-03-16,Division Street approaching Bryant Street,San Francisco,San Francisco,CA,94103,10:31
-Zoox Inc.,Zoox Inc.,2022-03-22,Stockton and Filbert Intersection,San Francisco,San Francisco,CA,94133,15:00
-Zoox Inc.,Zoox Inc.,2022-03-29,3rd Street and Stillman Street,San Francisco,San Francisco,CA,94107,08:20
-Zoox Inc.,Zoox Inc.,2022-04-06,9th and Bryant Street,San Francisco,San Francisco,CA,94103,17:38
-Zoox Inc.,Zoox Inc.,2022-04-28,Colin P. Kelly St and Brannan St. Intersection,San Francisco,San Francisco,CA,94107,15:28
-Zoox Inc,Zoox Inc.,2021-05-11,Kearny St. and Columbus Ave. Intersection,San Francisco,San Francisco,CA,94133,17:13
-Zoox Inc.,Zoox Inc.,2022-05-20,Folsom St. near Essex St.,San Francisco,San Francisco,CA,94105,13:30
-Zoox Inc.,Zoox Inc.,2022-05-31,10th Street and Folsom Street Intersection,San Francisco,San Francisco,CA,94103,12:50
-Zoox Inc.,Zoox Inc.,2022-06-01,11th Street and Harrison Street Intersection,San Francisco,San Francisco,CA,94133,13:02
-Zoox Inc.,Zoox Inc.,,Halsey Ave.,San Mateo,San Mateo,CA,94403,10:45
-Zoox,Zoox,2023-06-18,Montgomery and Pine Street,San Francisco,San Francisco,CA,94104,17:50
-Zoox Inc.,Zoox Inc.,2022-07-08,Folsom Street and 9th Street,San Francisco,San Francisco,CA,94103,22:47
-Zoox Inc.,Zoox Inc.,2022-08-23,Santa Cruz Ave.,Menlo Park,San Mateo,CA,94025,17:21
-Zoox Inc.,Zoox Inc.,2022-08-30,On Kearny St. towards Bush St.,San Francisco,San Francisco,CA,94108,21:01
-Zoox Inc.,Zoox Inc.,2022-09-01,Treat Ave. & Alameda St.,San Francisco,San Francisco,CA,94103,11:30
-Zoox Inc.,Zoox Inc.,2021-09-02,Folsom St. and Essex St. Intersection,San Francisco,San Francisco,CA,94107,20:02
-Zoox Inc.,Zoox Inc.,2022-09-14,W. Grant Line Rd and 580 W on-ramp,Altamont,Alameda County,CA,94551,19:49
-Zoox Inc.,Zoox Inc.,2021-09-21,Intersection of Broadway and Sansome,San Francisco,San Francisco,CA,94133,15:15
-Zoox,Zoox,2022-10-03,Pine St. near Powell St.,San Francisco,San Francisco,CA,94108,14:02
-Zoox Inc.,Zoox Inc.,2021-10-21,Intersection of Columbus and Mason St.,San Francisco,San Francisco,CA,94133,15:05
-Zoox Inc.,Zoox Inc.,2021-11-03,Intersection of Oakdell and Lemon St.,Menlo Park,San Mateo,CA,94025,16:09
-Zoox,Zoox,2022-11-04,Vallejo Street and Sansome Street,San Francisco,San Francisco,CA,94111,13:40
-Zoox,Zoox,2022-11-14,Folsom Street and 8th Street,San Francisco,San Francisco,CA,94103,20:22
-Zoox,Zoox,2022-11-28,11th St. and Harrison St. Intersection,San Francisco,San Francisco,CA,94103,22:18
-Zoox,Zoox,2024-01-01,On Capp Street at 24th Street,San Francisco,San Francisco,CA,94110,21:13
-Zoox,Zoox,2024-01-01,On Capp Street at 24th Street,San Francisco,San Francisco,CA,94110,21:13
-Zoox,Zoox,2024-01-11,On Florida St near the intersection with Division St,San Francisco,San Francisco,CA,94103,14:30
-Zoox,Zoox,2024-01-11,On Bryant St at the intersection with 6th St,San Francisco,San Francisco,CA,94103,16:56
-Zoox,Zoox,2024-01-15,On Stockton St near Union St,San Francisco,San Francisco,CA,94133,14:12
-Zoox,Zoox,2024-02-22,On Mission St at 9th St,San Francisco,San Francisco,CA,94103,11:00
-Zoox,Zoox,2024-02-22,Harrison and 13th Street,San Francisco,San Francisco,CA,94103,13:52
-Zoox,Zoox,2023-04-11,Kearny Street and Commercial Street Intersection,San Francisco,San Francisco,CA,94108,11:19
-Zoox Inc.,Zoox Inc.,2023-05-17,13th Street and Harrison Street,San Francisco,San Francisco,CA,94103,11:40
-Zoox Inc.,Zoox Inc.,2023-05-20,Broadway Street and Montgomery Street,San Francisco,San Francisco,CA,94133,22:49
-Zoox,Zoox,2022-06-01,"Pacific Ave., Kearny St., Columbus Ave. Intersectio",San Francisco,San Francisco,CA,94113,13:15
-Zoox,Zoox,2023-08-16,Sagamore St. and Orizaba St.,San Francisco,San Francisco,CA,94112,08:45
-Zoox,Zoox,2023-09-11,At 7th Street and Folsom Street,San Francisco,San Francisco,CA,94103,15:20
-Zoox,Zoox,2023-10-12,Jackson St. between Montgomery/Sansome Sts.,San Francisco,San Francisco,CA,94133,20:12
+Apollo Autonomous Driving USA LLC,Apollo Autonomous Driving USA LLC,2023-06-29,Moraga St near 34th Ave,San Francisco,San Francisco,CA,94122,15:39:00
+Apple Inc.,Apple Inc.,2024-01-26,I-580E and I-238 Junction,Castro Valley,Alameda,CA,94546,11:06:00
+Apple Inc.,Apple Inc.,2021-09-27,N Mathilda Ave and Del Rey Ave,Sunnyvale,Santa Clara,CA,94085,10:53:00
+Apple Inc.,Apple Inc.,2023-09-26,I-80 Westbound,Emeryville,Alameda,CA,94608,11:33:00
+Apple Inc.,Apple Inc.,2023-09-29,US 101S near Capitol Expressway,San Jose,Santa Clara,CA,95121,14:58:00
+Argo AI,Argo AI,2021-07-08,Stanford Ave/Bowdoin St,Palo Alto,Santa Clara,CA,94304,09:18:00
+Argo AI,Argo AI,2022-09-22,SE Park Avenue,Palo Alto,Santa Clara,CA,94306,17:24:00
+Argo AI,Argo AI,2021-10-19,Grant Ave/El Camino Real,Palo Alto,Santa Clara,CA,94306,14:25:00
+"Beep, Inc.","Beep, Inc.",2023-08-23,"9th St at Seven Seas Ave, Treasure Island",San Francisco,San Francisco,CA,94130,17:54:00
+Cruise LLC,Cruise,2021-01-13,201 Grant Av,San Francisco,San Francisco,CA,94108,17:32:00
+Cruise LLC,Cruise,2021-01-21,433 Minna St,San Francisco,San Francisco,CA,94103,14:38:00
+Cruise LLC,Cruise,2020-01-29,1170 Columbus Av,San Francisco,San Francisco,CA,94133,10:10:00
+Cruise LLC,Cruise,2020-01-31,22 Castro St,San Francisco,San Francisco,CA,94114,17:47:00
+Cruise LLC,Cruise,2020-02-09,Sickles Ave and Mission St,San Francisco,San Francisco,CA,94112,21:16:00
+Cruise LLC,Cruise,2021-02-25,700 Blk Baker St,San Francisco,San Francisco,CA,94115,19:10:00
+Cruise,Cruise,2023-03-03,1201 Bryant St,San Francisco,San Francisco,CA,94103,04:23:00
+Cruise LLC,Cruise,2021-03-12,198 Duboce Av,San Francisco,San Francisco,CA,94103,16:37:00
+Cruise,Cruise,2023-03-21,1401 Clay Street,San Francisco,San Francisco,CA,94109,21:49:00
+Cruise,Cruise,2023-03-23,1452 Haight Street,San Francisco,San Francisco,CA,94117,14:46:00
+Cruise LLC,Cruise,2021-03-27,199 Parnassus St,San Francisco,San Francisco,CA,94117,16:27:00
+Cruise,Cruise,2023-04-09,499 25th Avenue,San Francisco,San Francisco,CA,94121,04:45:00
+Cruise,Cruise,2023-04-12,1198 Turk Street,San Francisco,San Francisco,CA,94115,20:13:00
+Cruise,Cruise,2022-04-16,1460 Pine St,San Francisco,San Francisco,CA,94109,23:21:00
+Cruise,Cruise,2022-04-17,3289 Mission St,San Francisco,San Francisco,CA,94110,12:13:00
+Cruise LLC,Cruise,2021-04-21,1401 15th St,San Francisco,San Francisco,CA,94103,12:38:00
+Cruise,Cruise,2023-05-04,1798 Franklin St,San Francisco,San Francisco,CA,94109,09:32:00
+Cruise LLC,Cruise,2021-05-17,1201 Guerrero St,San Francisco,San Francisco,CA,94110,13:27:00
+Cruise,Cruise,2021-07-10,2500 Clement St.,San Francisco,San Francisco,CA,94121,18:06:00
+Cruise,Cruise,2022-07-14,3597 Mission St,San Francisco,San Francisco,CA,94110,02:57:00
+Cruise,Cruise,2021-07-15,1500 McAllister St.,San Francisco,San Francisco,CA,94115,21:38:00
+Cruise,Cruise,2022-07-16,700 Parnassus Ave,San Francisco,San Francisco,CA,94122,22:46:00
+Cruise,Cruise,2022-07-18,1561 16th Ave,San Francisco,San Francisco,CA,94122,01:39:00
+Cruise,Cruise,2022-08-02,38 The Embarcadero S,San Francisco,San Francisco,CA,94105,07:04:00
+Cruise LLC,Cruise,2020-08-09,Potrero Ave. and 17th St.,San Francisco,San Francisco,CA,94110,15:48:00
+Cruise LLC,Cruise,2020-08-15,Turk St. and Steiner St.,San Francisco,San Francisco,CA,95115,22:19:00
+Cruise,Cruise,2021-08-28,900 Steiner St,San Francisco,San Francisco,CA,94117,21:05:00
+Cruise LLC,Cruise,2020-09-16,9th St and Folsom St,San Francisco,San Francisco,CA,94103,09:09:00
+Cruise,Cruise,2021-10-02,700 Capp St,San Francisco,San Francisco,CA,94110,01:56:00
+Cruise LLC,Cruise,2019-10-17,Hyde St. and Sutter St.,San Francisco,San Francisco,CA,94109,01:05:00
+Cruise LLC,Cruise,2020-10-24,2398 17 St,San Francisco,San Francisco,CA,94110,04:40:00
+Cruise LLC,Cruise,2020-10-25,1128 Balboa St,San Francisco,San Francisco,CA,94118,16:28:00
+Cruise LLC,Cruise,2019-10-29,Beach St. and The Embarcadero,San Francisco,San Francisco,CA,0,19:52:00
+Cruise LLC,Cruise,2019-11-07,King St. between 2nd St. and 3rd St.,San Francisco,San Francisco,CA,0,20:35:00
+Cruise LLC,Cruise,2019-11-10,1499 Vallejo St.,San Francisco,San Francisco,CA,94109,12:55:00
+Cruise,Cruise,2021-11-15,4485 17th St,San Francisco,San Francisco,CA,94114,08:44:00
+Cruise LLC,Cruise,2019-11-25,California St. and Hyde St.,San Francisco,San Francisco,CA,94109,19:00:00
+Cruise LLC,Cruise,2019-12-08,30th Avenue and California Street,San Francisco,San Francisco,CA,94121,09:14:00
+Cruise,Cruise,2022-12-14,1774 Sacramento St,San Francisco,San Francisco,CA,94109,23:51:00
+Cruise,Cruise,2022-12-18,847 Divisadero St,San Francisco,San Francisco,CA,94117,23:23:00
+Cruise LLC,Cruise,2019-12-19,Post St. and Leavenworth St.,San Francisco,San Francisco,CA,94109,10:27:00
+Cruise,Cruise,2022-01-26,198 10 St,San Francisco,San Francisco,CA,94103,03:56:00
+Cruise,Cruise,2022-01-29,280 Potrero AV,San Francisco,San Francisco,CA,94103,13:10:00
+Cruise,Cruise,2022-02-11,1002 Masonic Ave,San Francisco,San Francisco,CA,94117,12:42:00
+Cruise,Cruise,2023-03-06,1199 Polk St,San Francisco,San Francisco,CA,94109,01:06:00
+Cruise,Cruise,2022-03-15,3001 16th St,San Francisco,San Francisco,CA,94103,12:26:00
+Cruise,Cruise,2023-03-18,499 25th Avenue,San Francisco,San Francisco,CA,94121,03:26:00
+Cruise,Cruise,2023-03-22,1695 Polk Street,San Francisco,San Francisco,CA,94109,04:29:00
+Cruise,Cruise,2023-03-22,1258 Shafter Avenue,San Francisco,San Francisco,CA,94124,03:20:00
+Cruise,Cruise,2023-03-22,2654 Turk Boulevard,San Francisco,San Francisco,CA,94118,23:30:00
+Cruise,Cruise,2022-03-24,1090 Point Lobos Avenue,San Francisco,San Francisco,CA,94121,13:24:00
+Cruise,Cruise,2022-03-26,2200 Greenwich St,San Francisco,San Francisco,CA,94123,02:07:00
+Cruise,Cruise,2022-04-01,1333 Bush St,San Francisco,San Francisco,CA,94109,00:43:00
+Cruise,Cruise,2022-04-09,1798 Sacramento St,San Francisco,San Francisco,CA,94109,01:55:00
+Cruise,Cruise,2022-04-24,1225 Steiner,San Francisco,San Francisco,CA,94115,03:35:00
+Cruise,Cruise,2022-04-25,1798 Sacramento St,San Francisco,San Francisco,CA,94109,23:21:00
+Cruise LLC,Cruise,2021-05-11,901 Castro St,San Francisco,San Francisco,CA,94114,15:59:00
+Cruise,Cruise,2022-05-13,1699 Pine St,San Francisco,San Francisco,CA,94109,04:37:00
+Cruise,Cruise,2022-06-03,698 Spruce Street,San Francisco,San Francisco,CA,94118,23:00:00
+Cruise,Cruise,2023-06-24,676 Tennessee St,San Francisco,San Francisco,CA,94107,23:08:00
+Cruise,Cruise,2021-07-01,400 Block of 6th St,San Francisco,San Francisco,CA,94103,08:21:00
+Cruise,Cruise,2022-08-16,Martin Luther King Jr. Drive and Crossover Drive,San Francisco,San Francisco,CA,94122,03:53:00
+Cruise,Cruise,2022-09-01,766 Pine St,San Francisco,San Francisco,CA,94108,18:46:00
+Cruise,Cruise,2022-09-05,1727 Sacramento Street,San Francisco,San Francisco,CA,94109,05:14:00
+Cruise,Cruise,2021-11-13,1100 Ocean Ave,San Francisco,San Francisco,CA,94112,16:49:00
+Cruise,Cruise,2021-11-14,385 4th Ave,San Francisco,San Francisco,CA,94118,20:38:00
+Cruise,Cruise,2021-11-21,1277 Cayuga St,San Francisco,San Francisco,CA,94112,14:05:00
+Cruise,Cruise,2021-12-01,900 Laguna St,San Francisco,San Francisco,CA,94115,17:22:00
+Cruise,Cruise,2021-12-11,460 Larkin St,San Francisco,San Francisco,CA,94102,16:47:00
+Cruise,Cruise,2021-12-26,799 14th Ave,San Francisco,San Francisco,CA,94118,18:41:00
+Cruise,Cruise,2022-12-28,1398 Folsom St,San Francisco,San Francisco,CA,94103,23:59:00
+Cruise,Cruise,2023-04-22,810 10th St,San Francisco,San Francisco,CA,94103,21:59:00
+Cruise,Cruise,2023-05-21,1121 Folsom St,San Francisco,San Francisco,CA,94103,21:24:00
+Cruise,Cruise,2023-06-08,2275 Revere Ave,San Francisco,San Francisco,CA,94124,22:37:00
+Cruise,Cruise,2023-06-09,2181 Harrison St,San Francisco,San Francisco,CA,94110,22:22:00
+Cruise,Cruise,2023-06-15,3164 Sacramento St,San Francisco,San Francisco,CA,94115,09:36:00
+Cruise,Cruise,2023-06-17,3376 19th St,San Francisco,San Francisco,CA,94110,23:30:00
+Cruise,Cruise,2023-07-02,190 Franklin St,San Francisco,San Francisco,CA,94102,12:07:00
+Cruise,Cruise,2023-07-21,425 McAllister Street,San Francisco,San Francisco,CA,94102,01:56:00
+Cruise,Cruise,2023-07-21,425 McAllister Street,San Francisco,San Francisco,CA,94102,01:56:00
+Cruise,Cruise,2023-07-28,1698 Van Ness Ave,San Francisco,San Francisco,CA,94109,23:51:00
+Cruise,Cruise,2023-07-30,3309 Mission St,San Francisco,San Francisco,CA,94110,22:41:00
+Cruise,Cruise,2023-08-08,901 Pennsylvania Ave,San Francisco,San Francisco,CA,94107,10:37:00
+Cruise,Cruise,2023-08-14,131 Albion St,San Francisco,San Francisco,CA,94110,16:45:00
+Cruise,Cruise,2023-08-17,2100 17th St,San Francisco,San Francisco,CA,94103,12:12:00
+Cruise,Cruise,2023-08-18,3401 26th St,San Francisco,San Francisco,CA,94110,12:19:00
+Cruise,Cruise,2023-09-11,215 Bush St,San Francisco,San Francisco,CA,94104,17:32:00
+Cruise,Cruise,2023-09-27,453 2nd St,San Francisco,San Francisco,CA,94107,08:42:00
+Cruise,Cruise,2023-10-06,308 Scott St,San Francisco,San Francisco,CA,94117,11:37:00
+Ghost Autonomy Inc.,Ghost Autonomy Inc.,2024-01-11,HWY 17 Northbound near Hamman Park,San Jose,Santa Clara,CA,95128,16:48:00
+GM Cruise LLC,Cruise,2019-01-10,S. Van Ness Ave between 12th St. and 13th St.,San Francisco,San Francisco,CA,94103,11:29:00
+GM Cruise LLC,Cruise,2019-02-27,Gough St. and Rose St.,San Francisco,San Francisco,CA,94102,06:04:00
+GM Cruise LLC,Cruise,2019-03-08,16th St. and Guerrero St.,San Francisco,San Francisco,CA,94103,01:29:00
+GM Cruise LLC,Cruise,2019-03-23,Eddy St. and Leavenworth St.,San Francisco,San Francisco,CA,94109,05:28:00
+GM Cruise LLC,Cruise,2019-04-10,Lyon St. and California St.,San Francisco,San Francisco,CA,94115,16:52:00
+GM Cruise LLC,Cruise,2019-05-02,24th St. and Potrero Ave,San Francisco,San Francisco,CA,94110,23:01:00
+GM Cruise LLC,Cruise,2019-05-04,Duboce Ave between Steiner St and Sanchez St,San Francisco,San Francisco,CA,94114,22:56:00
+GM Cruise LLC,Cruise,2019-05-08,Franklin St. and Bay St.,San Francisco,San Francisco,CA,94123,08:55:00
+GM Cruise LLC,Cruise,2019-05-18,Euclid Ave. and Palm Ave.,San Francisco,San Francisco,CA,94118,19:31:00
+GM Cruise LLC,Cruise,2019-05-24,Geary Blvd between 8th Ave and 9th Ave,San Francisco,San Francisco,CA,94118,19:36:00
+GM Cruise LLC,Cruise,2019-06-08,Clay St. and Van Ness Ave.,San Francisco,San Francisco,CA,94109,09:02:00
+GM Cruise LLC,Cruise,2019-06-13,Divisadero St. and Bush St.,Ssan Francisco,San Francisco,CA,94115,16:47:00
+GM Cruise LLC,Cruise,2019-06-26,10th Ave and California St.,San Francisco,San Francisco,CA,94118,12:36:00
+GM Cruise LLC,Cruise,2019-06-27,Bryant St. and 10th St.,San Francisco,San Francisco,CA,94103,21:50:00
+GM Cruise LLC,Cruise,2019-06-29,Duboce Ave between Guerrero St. and Market St.,San Francisco,San Francisco,CA,94103,23:49:00
+GM Cruise LLC,Cruise,2019-07-01,Grant St. and Clay St.,San Francisco,San Francisco,CA,94108,10:58:00
+GM Cruise LLC,Cruise,2019-07-02,Steiner St. and Bush St.,San Francisco,San Francisco,CA,94115,09:47:00
+GM Cruise LLC,Cruise,2019-07-10,10th St. between Market St. and Mission St.,San Francisco,San Francisco,CA,94102,21:59:00
+GM Cruise LLC,Cruise,2019-08-07,24th St. between Noe St. and Sanchez St.,San Francisco,San Francisco,CA,94114,10:23:00
+GM Cruise LLC,Cruise,2019-08-22,Geary Blvd between 33rd Ave and 32nd Ave,San Francisco,San Francisco,CA,94121,13:13:00
+GM Cruise LLC,Cruise,2019-09-09,Geary Blvd and Palm Ave.,San Francisco,San Francisco,CA,94118,16:24:00
+GM Cruise LLC,Cruise,2019-10-03,10th St. and Bryant St.,San Francisco,San Francisco,CA,94103,16:40:00
+"Lyft, Inc","Lyft, Inc",,Medical Foundation Dr and El Camino Blvd.,Palo Alto,Santa Clara,CA,94301,02:04:00
+Lyft Inc.,Lyft Inc.,2021-04-14,HARRISON & 1 ST,SAN FRANCISCO,SAN FRANCISCO,CA,94107,09:38:00
+"MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.","MERCEDES-BENZ RESEARCH & DEVELOPMENT NORTH AMERICA, INC.",2023-02-02,605N HWY,SANTA FE SPRINGS,LOS ANGELES,CA,90650,08:25:00
+"Mercedes-Benz Research & Development North America, Inc.","Mercedes-Benz Research & Development North America, Inc.",2022-05-19,710 S Fwy and Atlantic Blvd,Commerce,Los Angeles,CA,90040,15:05:00
+Nuro Inc,Nuro Inc,2024-01-12,Cross street: Terra Bella and Shoreline,Mountain View,Santa Clara,CA,94043,14:30:00
+"Pony.ai, Inc.",Pony.ai,2020-12-19,Intersection of Jamboree Rd and MacArthur Blvd,Irvine,0,CA,92660,12:46:00
+Pony.ai,Pony.ai,2022-04-11,301 Ranch Dr,Milpitas,Santa Clara,CA,95035,09:00:00
+Pony.ai,Pony.ai,2022-05-17,30407 Arroyo Dr,Irvine,Orange,CA,92617,15:00:00
+Pony.ai,Pony.ai,2021-10-28,Southbound on Fremont Blvd past Cushing Pkwy,Fremont,Alameda,CA,94538,10:50:00
+Pony.ai,Pony.ai,2023-06-05,Warren Ave & Kato Rd,Fremont,Alameda,CA,94538,11:39:00
+"Pony.ai, Inc.",Pony.ai,2020-05-30,Corner of Harvard and Barranca,Irvine,Orange County,CA,92606,10:19:00
+"Pony.AI, Inc.","Pony.AI, Inc.",,Pine Street at Cameron Hills Drive,Fremont,Alameda,CA,94539,02:26:00
+Pony.ai,Pony.ai,2022-03-28,Tustin Ranch Rd traveling eastbound,Tustin,Orange,CA,92606,11:30:00
+Zoox Inc,Zoox Inc,2020-07-14,Vallejo Street and Davis Street,San Francisco,San Francisco,CA,94111,13:50:00
+Waymo LLC,Waymo LLC,2020-01-07,Nita Avenue and San Antonio Road,Palo Alto,Santa Clara,CA,94306,10:05:00
+Waymo LLC,Waymo LLC,2021-01-13,26th Street at Bartlett Street,San Francisco,San Francisco,CA,94110,15:15:00
+Waymo LLC,Waymo LLC,2024-01-31,Potrero Avenue near 22nd Street,San Francisco,San Francisco,CA,94110,17:15:00
+Waymo LLC,Waymo LLC,2019-02-06,Central Expressway and Shoreline Boulevard,Mountain View,Santa Clara,CA,94043,09:08:00
+Waymo LLC,Waymo LLC,2020-02-14,Park Drive at Miramonte Avenue,Mountain View,Santa Clara,CA,94040,17:52:00
+Waymo LLC,Waymo LLC,2023-02-15,North Point Street at Buchanan Street,San Francisco,San Francisco,CA,94123,05:44:00
+Waymo LLC,Waymo LLC,2021-02-16,16th Street at Market Street,San Francisco,San Francisco,CA,94114,17:50:00
+Waymo LLC,Waymo LLC,2023-02-24,Toland Street at Hudson Avenue,San Francisco,San Francisco,CA,94124,12:15:00
+Waymo LLC,Waymo LLC,2023-02-25,Noe Street at 25th Street,San Francisco,San Francisco,CA,94114,07:23:00
+Waymo LLC,Waymo LLC,2019-02-26,Miramonte Avenue at Covington Road,Los Altos,Santa Clara,CA,94024,06:56:00
+Waymo LLC,Waymo LLC,2023-03-01,8077 O'Farrell Street,San Francisco,San Francisco,CA,94118,20:27:00
+Waymo LLC,Waymo LLC,2020-03-10,Whisman Station Drive at Central Expressway,Mountain View,Santa Clara,CA,94043,07:57:00
+Waymo LLC,Waymo LLC,2023-03-20,Venice Boulevard and La Cienega,Los Angeles,Los Angeles,CA,90034,10:43:00
+Waymo LLC,Waymo LLC,2023-03-20,Bayshore Boulevard near Jerrold Avenue,San Francisco,San Francisco,CA,94124,20:04:00
+Waymo LLC,Waymo LLC,2023-04-12,Wilshire Boulevard at 26th Street,Santa Monica,Los Angeles,CA,90403,17:29:00
+Waymo LLC,Waymo LLC,2021-04-18,Park Presidio Bypass approaching Crossover Drive,San Francisco,San Francisco,CA,94121,16:00:00
+Waymo LLC,Waymo LLC,2022-04-18,200 block of Duboce Avenue,San Francisco,San Francisco,CA,94103,02:31:00
+Waymo LLC,Waymo LLC,2022-04-18,5th Street and Bryant Street,San Francisco,San Francisco,CA,94107,08:14:00
+Waymo LLC,Waymo LLC,2023-04-30,Oak Street at Octavia Boulevard,San Francisco,San Francisco,CA,94102,13:53:00
+Waymo LLC,Waymo LLC,2019-05-15,Shoreline Blvd. at El Camino Real,Mountain View,Santa Clara,CA,94041,06:08:00
+Waymo LLC,Waymo LLC,2019-05-22,Whisman Station Drive at S. Whisman Road,Mountain View,Santa Clara,CA,94043,17:23:00
+Waymo LLC,Waymo LLC,2019-05-29,San Antonio Road at Charleston Road,Palo Alto,Santa Clara,CA,94303,16:07:00
+Waymo LLC,Waymo LLC,2019-06-16,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,11:30:00
+Waymo LLC,Waymo LLC,2021-06-25,Brannan Street at Division Street,San Francisco,San Francisco,CA,94103,21:50:00
+Waymo LLC,Waymo LLC,2021-06-26,3023 21st Street,San Francisco,San Francisco,CA,94110,12:35:00
+Waymo LLC,Waymo LLC,2022-07-01,355 Bayshore Blvd,San Francisco,San Francisco,CA,94124,10:08:00
+Waymo LLC,Waymo LLC,2019-07-08,Escuela Avenue and El Camino Real,Mountain View,Santa Clara,CA,94040,15:10:00
+Waymo LLC,Waymo LLC,2021-07-09,Bush Street and Grant Avenue,San Francisco,San Francisco,CA,94108,14:40:00
+Waymo LLC,Waymo LLC,2021-07-14,"2500 Block, Clement St",San Francisco,San Francisco,CA,94121,16:47:00
+Waymo LLC,Waymo LLC,2019-08-09,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,07:45:00
+Waymo LLC,Waymo LLC,2019-08-09,N. Shoreline Boulevard at W. Middlefield Road,Mountain View,Santa Clara,CA,94043,09:56:00
+Waymo LLC,Waymo LLC,2022-08-10,Market Street & Clayton Street,San Francisco,San Francisco,CA,94114,17:05:00
+Waymo LLC,Waymo LLC,2019-08-12,S. Rengstorff Avenue at Crisanto Avenue,Mountain View,Santa Clara,CA,94040,08:15:00
+Waymo LLC,Waymo LLC,2022-08-13,106 Noe Street,San Francisco,San Francisco,CA,94114,03:09:00
+Waymo LLC,Waymo LLC,2022-08-14,14th Street at Market Street,San Francisco,San Francisco,CA,94114,18:08:00
+Waymo LLC,Waymo LLC,2022-08-16,Martin Luther King Jr. Drive at 25th Avenue,San Francisco,San Francisco,CA,94122,03:52:00
+Waymo LLC,Waymo LLC,2022-08-16,Broadway at Sansome Street,San Francisco,San Francisco,CA,94133,09:12:00
+Waymo LLC,Waymo LLC,2021-08-27,Presidio Avenue and Bush Street,San Francisco,San Francisco,CA,94115,16:15:00
+Waymo LLC,Waymo LLC,2019-09-14,4800 El Camino Real,Los Altos,Santa Clara,CA,94022,14:12:00
+Waymo LLC,Waymo LLC,2021-10-01,John F. Kennedy Drive at Stanyayn Street,San Francisco,San Francisco,CA,94117,15:51:00
+Waymo LLC,Waymo LLC,2019-10-10,Rengstorff Avenue at Central Expressway,Mountain View,Santa Clara,CA,94043,12:58:00
+Waymo LLC,Waymo LLC,2019-10-14,Cuesta Drive at S. San Antonio Road,Los Altos,Santa Clara,CA,94022,21:03:00
+Waymo LLC,Waymo LLC,2019-10-16,Distel Drive at El Camino Real,Mountain View,Santa Clara,CA,94022,07:45:00
+Waymo LLC,Waymo LLC,2019-10-18,Alma Street at Oregon Expressway,Palo Alto,Santa Clara,CA,94301,10:30:00
+Waymo LLC,Waymo LLC,2019-10-28,Whisman Station Drive and Central Expressway,Mountain View,Santa Clara,CA,94043,07:43:00
+Waymo LLC,Waymo LLC,2019-10-28,Castro Street at Central Expressway,Mountain View,Santa Clara,CA,94041,10:47:00
+Waymo LLC,Waymo LLC,2022-12-17,Embarcadero at Howard Street,San Francisco,San Francisco,CA,94105,13:50:00
+Waymo LLC,Waymo LLC,2021-12-19,Fulton Street and 5th Avenue,San Francisco,San Francisco,CA,94118,10:30:00
+Waymo LLC,Waymo LLC,2020-12-29,3rd Street at 24th Street,San Francisco,San Francisco,CA,94107,17:45:00
+Waymo LLC,Waymo LLC,2021-05-23,Sanchez Street at 16th Street,San Francisco,San Francisco,CA,94114,14:42:00
+Waymo LLC,Waymo LLC,2023-06-18,Market Street at Diamond Street,San Francisco,San Francisco,CA,94114,17:06:00
+Waymo LLC,Waymo LLC,2022-06-21,Parking Entrance near Brannan Street and 9th Street,San Francisco,San Francisco,CA,94103,12:21:00
+Waymo LLC,Waymo LLC,2022-01-03,100 Block of Bayshore Blvd,San Francisco,San Francisco,CA,94124,09:00:00
+Waymo LLC,Waymo LLC,2022-01-20,Polk Street at Sacramento Street,San Francisco,San Francisco,CA,94109,14:24:00
+Waymo LLC,Waymo LLC,2023-01-22,Bayshore Boulevard at Jerrold Avenue,San Francisco,San Francisco,CA,94124,17:08:00
+Waymo LLC,Waymo LLC,2022-01-28,Noriega Street at 25th Avenue,San Francisco,San Francisco,CA,94122,20:40:00
+Waymo LLC,Waymo LLC,2022-01-28,Franklin Street at Golden Gate Avenue,San Francisco,San Francisco,CA,94102,06:30:00
+Waymo LLC,Waymo LLC,2022-02-01,Clipper Street and Noe Street,San Francisco,San Francisco,CA,94114,08:44:00
+Waymo LLC,Waymo LLC,2022-02-09,Coral Road at Wisconsin Street,San Francisco,San Francisco,CA,94107,15:05:00
+Waymo LLC,Waymo LLC,2022-02-11,Market Street and Valencia Street,San Francisco,San Francisco,CA,94103,17:36:00
+Waymo LLC,Waymo LLC,2022-02-14,Kansas Street at 16th Street,San Francisco,San Francisco,CA,94103,15:02:00
+Waymo LLC,Waymo LLC,2022-02-19,100 Block of Bayshore Avenue,San Francisco,San Francisco,CA,94124,19:45:00
+Waymo LLC,Waymo LLC,2022-02-28,Cesar Chavez and Mission Street,San Francisco,San Francisco,CA,94110,12:49:00
+Waymo LLC,Waymo LLC,2021-03-05,Oakdale Avenue at Industrial Street,San Francisco,San Francisco,CA,94124,20:40:00
+Waymo LLC,Waymo LLC,2022-03-09,Irving Street at 25th Avenue,San Francisco,San Francisco,CA,94122,12:22:00
+Waymo LLC,Waymo LLC,2023-03-12,Cesar Chavez Street at Mission Street,San Francisco,San Francisco,CA,94110,21:28:00
+Waymo LLC,Waymo LLC,2023-03-16,"Exit Ramp 43A, Interstate 280",San Bruno,San Mateo,CA,94066,02:19:00
+Waymo LLC,Waymo LLC,2022-03-26,Oakdale Avenue and Toland Street,San Francisco,San Francisco,CA,94124,01:16:00
+Waymo LLC,Waymo LLC,2022-03-31,1000 block of Potrero Avenue,San Francisco,San Francisco,CA,94110,11:07:00
+Waymo LLC,Waymo LLC,2022-04-05,Quintara Street and 20th Avenue,San Francisco,San Francisco,CA,94116,19:55:00
+Waymo LLC,Waymo LLC,2022-04-24,Lincoln Way at 17th Avenue,San Francsico,San Francisco,CA,94122,16:36:00
+Waymo LLC,Waymo LLC,2022-05-04,175 Bayshore Boulevard,San Francisco,San Francisco,CA,94124,13:26:00
+Waymo LLC,Waymo LLC,2022-05-17,Stanyan Street and McAllister Street,San Francisco,San Francisco,CA,94118,13:26:00
+Waymo LLC,Waymo LLC,2022-05-27,Bush Street at Stockton Street,San Francisco,San Francisco,CA,94108,01:16:00
+Waymo LLC,Waymo LLC,2022-06-01,McAllister Street and Franklin Street,San Francisco,San Francisco,CA,94102,07:26:00
+Waymo LLC,Waymo LLC,2022-06-05,Bush Street and Gough Street,San Francisco,San Francisco,CA,94109,10:07:00
+Waymo LLC,Waymo LLC,2022-07-02,Embarcadero at Broadway,San Francisco,San Francisco,CA,94111,06:54:00
+Waymo LLC,Waymo LLC,2022-07-05,17th Street at Wisconsin Street,San Francisco,San Francisco,CA,94107,15:26:00
+Waymo LLC,Waymo LLC,2022-08-25,15th Street at Albion Street,San Francisco,San Francisco,CA,94103,18:05:00
+Waymo LLC,Waymo LLC,2021-09-02,8th Avenue at Lake Street,San Francisco,San Francisco,CA,94118,01:56:00
+Waymo LLC,Waymo LLC,2022-09-10,2121 Evans Avenue,San Francisco,San Francisco,CA,94124,12:57:00
+Waymo LLC,Waymo LLC,2022-09-15,California Street at 19th Avenue,San Francisco,San Francisco,CA,94121,09:42:00
+Waymo LLC,Waymo LLC,2022-09-17,Potrero Avenue and 24th Street,San Francisco,San Francisco,CA,94110,06:38:00
+Waymo LLC,Waymo LLC,2021-10-18,Cesar Chavez and Evans Avenue,San Francisco,San Francisco,CA,94124,12:57:00
+Waymo LLC,Waymo LLC,2022-10-21,Filbert Street at Kearny Street,San Francisco,San Francisco,CA,94133,08:27:00
+Waymo LLC,Waymo LLC,2021-11-04,Green Street at Icehouse Alley,San Francisco,San Francisco,CA,94111,06:41:00
+Waymo LLC,Waymo LLC,2021-11-06,Waller St at Alpine Terrace,San Francisco,San Francisco,CA,94117,01:50:00
+Waymo LLC,Waymo LLC,2021-11-06,Powell Street and Pacific Avenue,San Francisco,San Francisco,CA,94133,16:28:00
+Waymo LLC,Waymo LLC,2022-11-08,2nd Street at Minna Street,San Francisco,San Francisco,CA,94105,09:34:00
+Waymo LLC,Waymo LLC,2021-11-12,Divisadero Street and Golden Gate Avenue,San Francisco,San Francisco,CA,94115,13:23:00
+Waymo LLC,Waymo LLC,2021-11-15,40th Ave and Noriega Street,San Francisco,San Francisco,CA,94122,02:20:00
+Waymo LLC,Waymo LLC,2021-11-26,"Scotia Ave, Thornton Ave, and Bridgeview Dr",San Francisco,San Francisco,CA,94124,20:02:00
+Waymo LLC,Waymo LLC,2021-11-28,Clay Street and Franklin Street,San Francisco,San Francisco,CA,94109,18:08:00
+Waymo LLC,Waymo LLC,2021-12-03,16th Street at Market and Noe Street,San Francisco,San Francisco,CA,94114,12:23:00
+Waymo LLC,Waymo LLC,2021-12-07,Oak Street & Stanyan Street,San Francisco,San Francisco,CA,94117,10:47:00
+Waymo LLC,Waymo LLC,2022-12-12,Monterey Blvd and Acadia Street,San Francisco,San Francisco,CA,94131,16:54:00
+Waymo LLC,Waymo LLC,2022-12-13,19th Avenue and Ulloa Street,San Francisco,San Francisco,CA,94116,12:35:00
+Waymo LLC,Waymo LLC,2022-12-29,3rd Street at Mariposa Street,San Francisco,San Francisco,CA,94158,03:15:00
+Waymo LLC,Waymo LLC,2024-01-08,Manhattan Place at West Adams Boulevard,Los Angeles,Los Angeles,CA,90018,12:05:00
+Waymo LLC,Waymo LLC,2024-02-05,Watt Way and West Exposition Boulevard,Los Angeles,Los Angeles,CA,90089,22:01:00
+Waymo LLC,Waymo LLC,2024-02-18,The Embarcadero at Washington Street,San Francisco,San Francisco,CA,94111,01:03:00
+Waymo LLC,Waymo LLC,2024-03-03,0,0,0,0,0,15:12:00
+Waymo LLC,Waymo LLC,2024-03-08,S Figueroa Street at Venice Boulevard,Los Angeles,Los Angeles,CA,90015,12:06:00
+Waymo LLC,Waymo LLC,2024-03-14,S Figueroa Street at 7th Street,Los Angeles,Los Angeles,CA,90017,14:42:00
+Waymo LLC,Waymo LLC,2023-04-03,Jack London Alley at Varney Place,San Francisco,San Francisco,CA,94107,22:56:00
+Waymo LLC,Waymo LLC,2023-04-06,Randall Street near Harper Street,San Francisco,San Francisco,CA,94110,10:48:00
+Waymo LLC,Waymo LLC,2023-04-28,25th St & Sanchez St,San Francisco,San Francisco,CA,94114,17:29:00
+Waymo LLC,Waymo LLC,2023-05-06,Post Street at Webster Street,San Francisco,San Francisco,CA,94115,20:48:00
+Waymo LLC,Waymo LLC,2023-05-07,Bay Street near Mason Street,San Francisco,San Francisco,CA,94133,15:29:00
+Waymo LLC,Waymo LLC,2023-05-21,Toland Street at Toland Place,San Francisco,San Francisco,CA,94124,10:56:00
+Waymo LLC,Waymo LLC,2023-06-05,3911 3rd Street,San Francisco,San Francisco,CA,94124,12:53:00
+Waymo LLC,Waymo LLC,2023-06-11,Santiago Street near 42nd Avenue,San Francisco,San Francisco,CA,94116,15:44:00
+Waymo LLC,Waymo LLC,2023-06-28,Great Highway near Kirkham Street,San Francisco,San Francisco,CA,94122,21:19:00
+Waymo LLC,Waymo LLC,2023-06-29,Jersey Street at Church Street,San Francisco,San Francisco,CA,94114,07:50:00
+Waymo LLC,Waymo LLC,2023-06-29,4th Street at S. June Street,Los Angeles,Los Angeles,CA,90020,23:18:00
+Waymo LLC,Waymo LLC,2023-07-08,S Alameda Street and 6th Street,Los Angeles,Los Angeles,CA,90021,15:08:00
+Waymo LLC,Waymo LLC,2023-07-21,Leavenworth Street at Golden Gate Avenue,San Francisco,San Francisco,CA,94102,09:51:00
+Waymo LLC,Waymo LLC,2023-07-22,13th Street east of Folsom Street,San Francisco,San Francisco,CA,94103,11:11:00
+Waymo LLC,Waymo LLC,,Harrison Street at 2nd Street,San Francisco,San Francisco,CA,94107,15:04:00
+Waymo LLC,Waymo LLC,2023-07-29,Colorado Avenue near Ocean Avenue,Santa Monica,Los Angeles,CA,90401,14:57:00
+Waymo LLC,Waymo LLC,2023-08-02,Bush Street at Polk Street,San Francisco,San Francisco,CA,94109,22:09:00
+Waymo LLC,Waymo LLC,2023-08-19,13th Street at Mission Street,San Francisco,San Francisco,CA,94103,16:45:00
+Waymo LLC,Waymo LLC,2023-08-20,Martin Luther King Jr. Drive at Crossover Drive,San Francisco,San Francisco,CA,94122,17:48:00
+Waymo LLC,Waymo LLC,2023-08-23,Mason Street at Vandewater Street,San Francisco,San Francisco,CA,94133,21:54:00
+Waymo LLC,Waymo LLC,2023-08-24,Michigan Avenue at Euclid Street,Santa Monica,Los Angeles,CA,90404,16:39:00
+Waymo LLC,Waymo LLC,2023-09-30,US-101 Exit 429B at Bayshore Blvd,San Francisco,San Francisco,CA,94124,21:00:00
+Waymo LLC,Waymo LLC,2023-11-03,3rd Street at Stevenson Street,San Francisco,San Francisco,CA,94103,15:44:00
+Waymo LLC,Waymo LLC,2023-11-22,West 7th Street at South Park View Street,Los Angeles,Los Angeles,CA,90057,19:59:00
+Weride Corp,Weride Corp,2021-07-16,2630 Orchard Parkway,San Jose,Santa Clara,CA,95134,11:35:00
+WeRide Corp,WeRide Corp,2021-11-03,87 S On-ramp from Charcot Ave,San Jose,Santa Clara,CA,95131,15:27:00
+WERIDE,WERIDE,2024-01-17,On 2nd St Left turn to  E San Fernando St,San Jose,Santa Clara,CA,95134,12:56:00
+WeRide.ai,WeRide.ai,2023-05-01,Bay St and Columbus Ave,San Francisco,San Francisco,CA,94133,11:41:00
+WeRide.ai,WeRide.ai,2023-06-08,E Trimble Rd between Junction Ave and Zanker Rd,San Jose,Santa Clara,CA,95134,14:06:00
+WERIDE,WERIDE,2023-09-28,On Embarcadero St left turning lane to Howard St,San Francisco,San Francisco,CA,94105,13:54:00
+Zoox Inc.,Zoox,2020-01-21,Broadway St. and Powell St.,San Francisco,San Francisco,CA,94133,11:08:00
+Zoox,Zoox,2023-02-07,2nd Street and Folsom Street Intersection,San Francisco,San Francisco,CA,94107,14:28:00
+Zoox,Zoox,2023-02-08,Embarcadero between Howard St. and Folsom St.,San Francisco,San Francisco,CA,94105,13:27:00
+Zoox,Zoox,2023-02-11,5th Street and Jesse Street,San Francisco,San Francisco,CA,94103,18:06:00
+Zoox Inc.,Zoox,2020-02-26,Montgomery St and Clay St,San Francisco,San Francisco,CA,94111,11:28:00
+Zoox Inc.,Zoox,2020-02-26,Montgomery St and Pacific St,San Francisco,San Francisco,CA,94133,20:52:00
+Zoox Inc.,Zoox Inc.,2022-04-22,Mason St. and Ellis St. Intersection,San Francisco,San Francisco,CA,94102,17:50:00
+Zoox Inc.,Zoox Inc.,2022-07-22,14th St. & Harrison St. Intersection,San Francisco,San Francisco,CA,94103,14:30:00
+Zoox Inc.,Zoox Inc.,2020-09-16,Intersection of Folsom and 5th Street,San Francisco,San Francisco,CA,94107,10:40:00
+Zoox Inc.,Zoox Inc.,2020-10-06,Harrison St / 13th St,San Francisco,San Francisco,CA,94103,13:40:00
+Zoox Inc.,Zoox,2019-10-11,Union St. and Grant St.,San Francisco,San Francisco,CA,94133,12:10:00
+Zoox Inc.,Zoox,2019-10-12,Polk St. and Green St.,San Francisco,San Francisco,CA,94109,14:00:00
+Zoox,Zoox,2022-10-14,Broadway St & Sansome St Intersection,San Francisco,San Francisco,CA,94133,14:52:00
+Zoox,Zoox,2022-11-20,The Embarcadero and Washington Street,San Francisco,San Francisco,CA,94111,13:24:00
+Zoox,Zoox,2023-01-01,Mason Street and Eddy Street,San Francisco,San Francisco,CA,94102,18:40:00
+Zoox Inc.,Zoox Inc.,2022-01-11,13th and Bryant St.,San Francisco,CA,CA,94103,08:55:00
+Zoox Inc.,Zoox Inc.,2022-02-05,Brannan and 7th Intersection,San Francisco,San Fancisco,CA,94103,20:55:00
+Zoox Inc.,Zoox Inc.,2022-03-29,3rd Street and Stillman Street,San Francisco,San Francisco,CA,94107,08:20:00
+Zoox Inc.,Zoox Inc.,2022-04-06,9th and Bryant Street,San Francisco,San Francisco,CA,94103,17:38:00
+Zoox Inc,Zoox Inc.,2021-05-11,Kearny St. and Columbus Ave. Intersection,San Francisco,San Francisco,CA,94133,17:13:00
+Zoox Inc.,Zoox Inc.,2022-05-20,Folsom St. near Essex St.,San Francisco,San Francisco,CA,94105,13:30:00
+Zoox Inc.,Zoox Inc.,2022-06-01,11th Street and Harrison Street Intersection,San Francisco,San Francisco,CA,94133,13:02:00
+Zoox Inc.,Zoox Inc.,2022-08-23,Santa Cruz Ave.,Menlo Park,San Mateo,CA,94025,17:21:00
+Zoox Inc.,Zoox Inc.,2022-08-30,On Kearny St. towards Bush St.,San Francisco,San Francisco,CA,94108,21:01:00
+Zoox Inc.,Zoox Inc.,2022-09-01,Treat Ave. & Alameda St.,San Francisco,San Francisco,CA,94103,11:30:00
+Zoox Inc.,Zoox Inc.,2021-09-02,Folsom St. and Essex St. Intersection,San Francisco,San Francisco,CA,94107,20:02:00
+Zoox,Zoox,2022-10-03,Pine St. near Powell St.,San Francisco,San Francisco,CA,94108,14:02:00
+Zoox,Zoox,2022-11-14,Folsom Street and 8th Street,San Francisco,San Francisco,CA,94103,20:22:00
+Zoox,Zoox,2022-11-28,11th St. and Harrison St. Intersection,San Francisco,San Francisco,CA,94103,22:18:00
+Zoox,Zoox,2024-01-01,On Capp Street at 24th Street,San Francisco,San Francisco,CA,94110,21:13:00
+Zoox,Zoox,2024-01-01,On Capp Street at 24th Street,San Francisco,San Francisco,CA,94110,21:13:00
+Zoox,Zoox,2024-01-15,On Stockton St near Union St,San Francisco,San Francisco,CA,94133,14:12:00
+Zoox,Zoox,2024-02-22,On Mission St at 9th St,San Francisco,San Francisco,CA,94103,11:00:00
+Zoox,Zoox,2023-04-11,Kearny Street and Commercial Street Intersection,San Francisco,San Francisco,CA,94108,11:19:00
+Zoox Inc.,Zoox Inc.,2023-05-17,13th Street and Harrison Street,San Francisco,San Francisco,CA,94103,11:40:00
+Zoox,Zoox,2022-06-01,"Pacific Ave., Kearny St., Columbus Ave. Intersectio",San Francisco,San Francisco,CA,94113,13:15:00
+Zoox,Zoox,2023-09-11,At 7th Street and Folsom Street,San Francisco,San Francisco,CA,94103,15:20:00
